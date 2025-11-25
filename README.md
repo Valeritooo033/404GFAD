@@ -13,6 +13,12 @@ public class gg2 {
     /*
 🕹 Lista completa de juegos recomendados para PS Vita
 
+Assassin’s Creed III: Liberation (exclusivo para PS Vita).
+Género: Acción / sigilo / aventura.
+Perspectiva: 3D tercera persona.
+Historia: Sigue a Aveline de Grandpré en Nueva Orleans durante el siglo XVIII.
+Técnicas: Combina parkour, sigilo y combate.
+
 Persona 4 Golden
 Género: JRPG | Técnica / Perspectiva: 3D con exploración + visual novel
 Sinopsis: Eres un estudiante que llega a Inaba y se ve envuelto en misteriosos asesinatos.
