@@ -299,5 +299,132 @@ PSOne Classics o remaster adaptados para Vita.
 
 Controles funcionan perfectamente con sticks y botones de Vita, y la pantalla mejora la experiencia visual.
 Juego moderno similar: Final Fantasy VII Remake
+
+
+
+
+
+
+
+
+
+
+
+El SD2Vita convierte una microSD normal en el almacenamiento principal de la Vita. Una vez configurado el plugin (storage_mgr o YAMT), la consola reconoce la microSD como si fuera la tarjeta oficial.
+
+Con esto puedes:
+
+Instalar juegos de PS Vita
+
+Instalar ports caseros, RetroArch, Adrenaline (PSP/PS1)
+
+Guardar partidas, DLCs, actualizaciones
+
+Poner temas, plugins, homebrew
+
+✅ 2. ¿Puedes meter “muchos juegos” a bajo coste? Ej: 40 juegos
+
+Sí.
+La Vita admite perfectamente microSD de gran capacidad mediante SD2Vita, así que con una sola tarjeta puedes almacenar decenas o cientos de juegos según tamaño.
+
+Tamaños orientativos de juegos de PS Vita:
+
+Juegos pequeños (indies): 200–600 MB
+
+Juegos medianos: 1–2.5 GB
+
+AAA grandes (Killzone, Uncharted, etc.): 3–4+ GB
+
+Con esta media:
+
+40 juegos variados → suelen ocupar entre 50 y 120 GB aprox.
+
+Con una microSD de 128 GB o 256 GB vas sobrado.
+
+✅ 3. ¿Es óptimo tener solo una microSD para juegos y partidas?
+
+Sí.
+La microSD actúa como almacenamiento completo:
+
+Juegos
+
+Datos guardados
+
+Parches
+
+Emuladores
+
+Homebrew
+
+No hace falta dividir nada. De hecho, es lo ideal para mantener todo ordenado.
+
+✅ 4. ¿Daría problemas una microSD de 256 GB?
+
+Generalmente no, y mucha gente usa:
+
+128 GB
+
+256 GB
+
+Incluso 512 GB (sí, funciona)
+
+Lo importante es:
+
+✔ Que sea una microSD de buena calidad
+
+Se recomiendan:
+
+Samsung EVO Select / EVO Plus
+
+SanDisk Ultra o Extreme
+
+Kingston Canvas Go / Plus
+
+✔ Que esté formateada en exFAT correctamente
+
+El plugin (storage_mgr o YAMT) la montará sin problema.
+
+✔ Que el adaptador SD2Vita sea versión V5 o V6
+
+Son más estables que los modelos antiguos.
+
+⚠️ Problemas posibles con microSD grandes (y cómo evitarlos)
+
+Estos problemas solo suelen ocurrir con tarjetas baratas o falsas:
+
+Corrupción de archivos
+
+Juegos que no arrancan
+
+Velocidades muy bajas
+
+Plugins mal configurados
+
+Cómo evitarlo:
+
+Comprar microSD de marca real (no clones baratos).
+
+Verificar la tarjeta con un test de capacidad (H2testw).
+
+Usar SD2Vita V5 o V6.
+
+Instalar bien el plugin de almacenamiento (te puedo guiar si quieres).
+
+🎮 Conclusión:
+
+Sí, una sola microSD rápida y de buena marca (128–256 GB) es perfectamente óptima para instalar decenas de juegos y almacenar todas tus partidas.
+
+Es la forma más barata y eficiente de usar una PS Vita hoy en día.
+
+Si quieres, puedo ayudarte a:
+
+🔧 Elegir la mejor microSD calidad/precio
+🔧 Elegir el mejor SD2Vita (V5 o V6)
+🧩 Hacer la configuración paso a paso en tu PS Vita
+
+
+
+
+
 */
 }
