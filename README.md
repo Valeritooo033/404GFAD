@@ -239,6 +239,22 @@ Sinopsis: Carreras a alta velocidad con naves antigravitatorias en circuitos
 futuristas llenos de loops y saltos. Potencia tu nave con armas y mejoras mientras compites en torneos y contrarreloj.
 Juego moderno similar: F-Zero / Fast RMX
 
+Street Fighter X Tekken
+Género: Lucha / 1vs1 | Técnica / Perspectiva: 2D / 3D híbrido
+Sinopsis: Combate uno contra uno con personajes icónicos de Street Fighter y Tekken. Sistema de gemas y combos estratégicos que cambian la dinámica del enfrentamiento. Incluye modo historia, arcade y multijugador local.
+Juego moderno similar: Street Fighter V
+
+Ultimate Marvel vs. Capcom 3
+Género: Lucha / 1vs1 | Técnica / Perspectiva: 2D / 3D híbrido
+Sinopsis: Combina héroes de Marvel y Capcom en intensos combates por equipos. Sistema de 3 contra 3 con ataques especiales y combos espectaculares. Multijugador local y online para enfrentamientos estratégicos y rápidos.
+Juego moderno similar: Marvel vs. Capcom: Infinite
+
+
+
+
+
+
+
 Deportes / simulaciones adaptadas a Vita
 
 FIFA 15
@@ -258,6 +274,7 @@ Género: Deportes / baloncesto | Técnica / Perspectiva: 3D, tercera persona
 Sinopsis: Uno de los mejores juegos de baloncesto en Vita. Incluye modos MyPlayer,
 temporada y multijugador online.
 Juego moderno similar: NBA 2K24
+
 
 Imprescindibles de PSP compatibles con Vita
 
