@@ -468,13 +468,10 @@ Si quieres, puedo ayudarte a:
 
 
 
-package c08_oop.InheritanceExercises;
-/*
-
  DE ESTA LISTA AÑADE UN POCO DE CADA LO QUE VEAS MEJOR Y MAS MODERNO; NO HACE FALTA QUE REPITAS JUEGOS SI SON EL MISMO
  PERO CON DISTINTAS EDICIONES, SOLO AÑADE EL MEJOR SEGUN VEAS O TE DIGA GPT
 Sí, hay varios juegos y ports para PS Vita, pero muchos de los que mencionas NO existen oficialmente para Vita, aunque hay homebrew (ports no oficiales) si usas HENkaku/Adrenaline.
- */
+ 
 Te pongo solo información legal y general, sin enlaces a contenido pirata.
 
 ✅ OFICIALMENTE disponibles para PS Vita
@@ -555,6 +552,7 @@ Otros ports homebrew
 🔸 Half-Life (Xash3D Port)
 
 🔸 OpenTTD (city-builder brutal)
+
 
 
 */
