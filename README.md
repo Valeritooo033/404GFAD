@@ -452,6 +452,111 @@ Si quieres, puedo ayudarte a:
 🔧 Elegir el mejor SD2Vita (V5 o V6)
 🧩 Hacer la configuración paso a paso en tu PS Vita
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+package c08_oop.InheritanceExercises;
+/*
+
+ DE ESTA LISTA AÑADE UN POCO DE CADA LO QUE VEAS MEJOR Y MAS MODERNO; NO HACE FALTA QUE REPITAS JUEGOS SI SON EL MISMO
+ PERO CON DISTINTAS EDICIONES, SOLO AÑADE EL MEJOR SEGUN VEAS O TE DIGA GPT
+Sí, hay varios juegos y ports para PS Vita, pero muchos de los que mencionas NO existen oficialmente para Vita, aunque hay homebrew (ports no oficiales) si usas HENkaku/Adrenaline.
+ */
+Te pongo solo información legal y general, sin enlaces a contenido pirata.
+
+✅ OFICIALMENTE disponibles para PS Vita
+Assassin’s Creed
+
+✔ Assassin’s Creed III: Liberation (el único oficial)
+
+Quake / Doom
+
+No existen oficialmente, pero sí hay FPS parecidos:
+
+✔ Doom 3 BFG Edition (via PS Now en su día) – ya no disponible.
+
+✔ Duke Nukem 3D Megaton Edition
+
+
+Carreras
+
+La Vita sí tiene muchos buenos juegos de carreras:
+
+✔ WipEout 2048
+
+✔ Need for Speed: Most Wanted
+
+✔ MotoGP 14 / F1 2011
+
+City Builders / Estrategia
+
+✔ Civilization Revolution 2+ (muy recomendable)
+
+✔ Dungeon Village, Venture Towns (Kairosoft)
+
+❌ NO existen oficialmente para PS Vita
+
+Estos juegos no salieron para Vita de manera oficial:
+
+❌ Fallout 3
+
+❌ Fallout New Vegas
+
+❌ Juegos de Zelda
+
+❌ Juegos de Super Mario
+
+❌ Assassin’s Creed (aparte del Liberation)
+
+❌ Quake o Doom modernos
+
+Pero…
+
+⚠️ Ports homebrew (no oficiales) disponibles si tienes Vita modificada
+
+(No incluyen contenido ilegal → son ports vacíos: requieren tus propios archivos originales.)
+
+Estos existen como homebrew legalmente si tú aportas tus archivos del juego original:
+
+Fallout
+
+🔸 Fallout NV Vita Port (New Vegas)
+– Corre sorprendentemente bien, pero requiere tus archivos del PC.
+
+Quake
+
+🔸 Ports de Quake 1, 2 y 3 para Vita
+
+Muy estables.
+
+Doom
+
+🔸 Chocolate Doom
+
+🔸 PrBoom+
+
+🔸 Doom Retro Vita
+
+Otros ports homebrew
+
+🔸 Half-Life (Xash3D Port)
+
+🔸 OpenTTD (city-builder brutal)
+
+
 */
 }
 
