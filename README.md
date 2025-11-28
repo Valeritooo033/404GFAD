@@ -9,6 +9,12 @@ package c08_oop.InheritanceExercises;
 public class gg2 {
 
 
+ PELIS : 
+     // - "Fight Club" (1999) (Eng)
+    //American Psycho (2000) – (Eng)
+    // Hinchas enemigos, miniserie Netflix (Esp)
+    // Good Boy (2025) Poland Film (Eng) (En Esp si existe)
+
     // Se puede añadir mas de 64 gb de memoria usando un adaptador SD2Vita, que permite hasta 256gb
     /*
 🕹 Lista completa de juegos recomendados para PS Vita
