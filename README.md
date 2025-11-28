@@ -13,6 +13,8 @@ public class gg2 {
     /*
 🕹 Lista completa de juegos recomendados para PS Vita
 
+The Amazing Spider-Man (Vita version)
+
 Assassin’s Creed III: Liberation (exclusivo para PS Vita).
 Género: Acción / sigilo / aventura.
 Perspectiva: 3D tercera persona.
