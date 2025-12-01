@@ -1,13 +1,3 @@
-package c08_oop.InheritanceExercises;
-
-public class fd {
-
-    /*
-
-package c08_oop.InheritanceExercises;
-
-public class gg2 {
-
 
  PELIS : 
  
@@ -18,6 +8,149 @@ public class gg2 {
     // Hinchas enemigos, miniserie Netflix (Esp)
     
     // Good Boy (2025) Poland Film (Eng) (En Esp si existe)
+
+
+
+
+LISTA DE ANIMES  DE INTERES
+
+/*
+
+1. Perfect Blue (1997)
+Sinopsis: Una idol retirada comienza a actuar, pero su vida se ve atrapada en paranoia y obsesión, cuestionando la realidad y su identidad.
+Duración: 81 min
+Género: Thriller psicológico, drama
+
+2. Paprika (2006)
+Sinopsis: Una psicóloga entra en los sueños de las personas usando un dispositivo experimental, causando que la frontera entre sueños y realidad se rompa.
+Duración: 90 min
+Género: Ciencia ficción, surrealismo
+
+3. Metropolis (2001)
+Sinopsis: En una ciudad futurista con robots y tensiones sociales, un joven busca la verdad detrás de un revolucionario robot humanoide.
+Duración: 103 min
+Género: Ciencia ficción, drama, política
+
+4. Akira (1988)
+Sinopsis: En un Tokio post-apocalíptico, un joven miembro de una pandilla descubre poderes psíquicos que podrían destruir la ciudad, desatando caos y conspiraciones políticas.
+Duración: 124 min
+Género: Ciencia ficción, cyberpunk, acción
+
+5. Ghost in the Shell (1995)
+Sinopsis: Una cyborg de élite investiga a un hacker que puede manipular la mente humana, explorando filosofía, identidad y tecnología avanzada.
+Duración: 83 min
+Género: Ciencia ficción, cyberpunk, thriller
+
+6. Jin-Roh: The Wolf Brigade (1999)
+Sinopsis: En un Japón alternativo post-guerra, un miembro de una unidad paramilitar se ve atrapado en intrigas políticas mientras desarrolla sentimientos conflictivos hacia una joven.
+Duración: 103 min
+Género: Drama, acción, distopía
+
+8. Redline (2009)
+Sinopsis: En un futuro lejano, un piloto audaz participa en la carrera de autos más peligrosa del universo, desafiando límites y rivalidades extremas.
+Duración: 101 min
+Género: Acción, ciencia ficción, deportes futuristas
+
+12. Vampire Hunter D: Bloodlust (2000)
+Sinopsis: Un cazador mitad humano mitad vampiro es contratado para rescatar a una joven secuestrada por vampiros, enfrentando peligros sobrenaturales y dilemas morales.
+Duración: 101 min
+Género: Horror, acción, gótico
+
+13. Wicked City (1987)
+Sinopsis: Dos agentes protegen la ciudad de un mundo paralelo habitado por criaturas sobrenaturales, enfrentando violencia, romance y conspiraciones.
+Duración: 85 min
+Género: Thriller, horror, acción
+
+14. Patlabor 2: The Movie (1993)
+Sinopsis: En un Tokio futurista, la policía de mechas enfrenta un complot terrorista mientras reflexiona sobre la política, la guerra y la responsabilidad social.
+Duración: 116 min
+Género: Ciencia ficción, drama, política
+
+
+📺 Series
+
+Paranoia Agent (Mousou Dairinin)
+Sinopsis: Un misterioso agresor ataca a personas aparentemente al azar, explorando traumas, paranoia y crítica social.
+Episodios: 13
+
+91 Days
+Sinopsis: Durante la Ley Seca, un joven busca venganza contra la mafia que mató a su familia.
+Episodios: 12
+
+Ergo Proxy
+Sinopsis: Una inspectora investiga asesinatos vinculados a seres llamados Proxies en un mundo post-apocalíptico, cuestionando la identidad humana.
+Episodios: 23
+
+Akudama Drive
+Sinopsis: Criminales con habilidades especiales aceptan un peligroso trabajo en una ciudad distópica llena de traición y caos.
+Episodios: 12
+
+3️⃣ Duración total aproximada
+
+Películas + series ≈ 2 527 min ≈ 42 h 7 min
+
+Esto es un ~30 % menos que tu lista original, lo que ya ayuda mucho a reducir tamaño.
+
+4️⃣ Tamaño aproximado comprimido (1080p, H.265)
+
+Si seguimos usando ~12–13 Mbps como tasa de bits promedio: 238GB
+ */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+LISTA DE TYPE BEATS A BUSCAR, METER EN FORMA DE MÚSICA HACIENDO UNA LISTA EN YOUTUBE BUSCANDO SIMPLEMENTE
+ESTO SIGIFICA BEATS PARECIDOS A LOS DE ESTE ARTISTA. GUARDAR EN CARPETAS. CONSERVA LA LISTA PARA PAGAR
+LAS LICENCIAS CUANDO SALGA SI ESCRIBO ALGO CON ESA INSTRUMENTAL
+
+Hip Hop / Trap Moderno MUCHO PERO MUCHO DE ESTO 20/30 DE CADA UNO SI PUEDE SER
+
+Drake Type Beat – Suave, melódico, con 808 profundos y atmósferas emotivas.
+Travis Scott Type Beat – Oscuro, espacioso, con sintetizadores ambientales y percusiones pesadas.
+Lil Baby Type Beat – Trap moderno, rápido hi-hats, bajos contundentes y melodías sencillas.
+Fredo Bang / Polo G Type Beat – Melancólico, emotivo, con armonías menores y flow introspectivo.
+Roddy Ricch Type Beat – Melodías pegajosas, autotune-friendly, mezcla de trap y R&B.
+Lil Durk Type Beat – Emotivo, melódico, trap con vibe de drill de Chicago.
+21 Savage Type Beat – Minimalista, oscuro, 808 profundos y atmósfera tensa.
+Juice WRLD Type Beat – Emo rap/trap melódico, guitarras suaves o pianos, emotivo y melancólico.
+Lil Uzi Vert Type Beat – Trap melódico, energía juvenil, autotune-friendly.
+Gunna Type Beat – Trap melódico con 808 profundos, hi-hats fluidos, vibra relajada.
+Coi Leray Type Beat – Trap/pop moderno, melodías pegajosas, ritmo bailable.
+Cooking Soul Type Beat – Hip hop melódico y sampleado, estilo de productores clásicos latinos.
+Yung beef type beat - ++
+Cruzz cafune type beat -
+
+        Afrobeat / Afro-Trap / Internacional // DE ESTO PON BASTANTE MENOS
+
+Afrobeat Type Beat – Ritmos africanos, percusiones rítmicas, melodías tropicales y pegajosas.
+Tems Type Beat – Afro-soul, R&B, atmósfera emocional, ideal para melodías vocales fuertes.
+Fireboy DML Type Beat – Afro-pop/trap, percusiones bailables, ritmos melódicos.
+
+        Drill / Street Rap Internacional // DE ESTO PON TAMBIEN BASTANTE MENOS
+
+Central Cee Type Beat – UK drill, 808 oscuros, percusión sincopada, atmósfera intensa.
+Lil Tjay Type Beat – Trap melódico, flow suave, rimas emotivas.
+Headie One Type Beat – UK drill, percusión compleja, 808 profundos, vibe street.
+
+
+
+
+ */
 
 
 
