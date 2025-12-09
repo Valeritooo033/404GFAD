@@ -22,6 +22,7 @@ ANIME:  Kakegurui
 
 
 
+
 # 🎮 Biblioteca Definitiva de PS Vita
 
 Esta es la **colección definitiva de juegos de PS Vita**, organizada por géneros, con sinopsis extendidas, estrellas de recomendación y juegos modernos similares. Incluye todos los títulos originales y recomendaciones adicionales para fans de RPG profundo, Souls-like, sandbox y estrategia.
@@ -166,6 +167,11 @@ Esta es la **colección definitiva de juegos de PS Vita**, organizada por géner
 **Sinopsis:** Metroidvania con mundo alienígena abierto, armas únicas, secretos escondidos y narrativa misteriosa.  
 **Juego moderno similar:** Ori and the Blind Forest  
 
+### Spelunky  
+⭐⭐⭐⭐⭐  
+**Sinopsis:** Roguelike de plataformas con niveles generados proceduralmente. Explora cuevas llenas de trampas mortales, enemigos y tesoros ocultos. Cada muerte es definitiva, lo que hace que cada partida sea un desafío único. Combina exploración, estrategia y reflejos rápidos, con alta rejugabilidad.  
+**Juego moderno similar:** Rogue Legacy / Dead Cells  
+
 ### Super Meat Boy  
 ⭐⭐⭐⭐  
 **Sinopsis:** Plataformas retro ultra difíciles. Saltos precisos y niveles frenéticos.  
@@ -205,9 +211,9 @@ Esta es la **colección definitiva de juegos de PS Vita**, organizada por géner
 **Sinopsis:** Supervivencia pura, recolecta recursos, evita peligros y sobrevive en un mundo hostil con ciclo día/noche y permadeath.  
 **Juego moderno similar:** Don't Starve Together  
 
-### Akiba’s Trip: Undead & Undressed (Fanservice)  
+### Akiba’s Trip: Undead & Undressed
 ⭐⭐⭐  
-**Sinopsis:** Explora Akihabara, lucha contra vampiros y disfruta del humor absurdo y fanservice.  
+**Sinopsis:** Explora Akihabara, lucha contra vampiros y disfruta del humor absurdo.  
 **Juego moderno similar:** Yakuza 0  
 
 ### Assassin’s Creed III: Liberation  
@@ -233,16 +239,6 @@ Esta es la **colección definitiva de juegos de PS Vita**, organizada por géner
 ⭐⭐⭐⭐  
 **Sinopsis:** Carreras urbanas y persecuciones policiales en mundo semiabierto. Acción arcade con conducción ligera y multijugador portátil.  
 **Juego moderno similar:** Need for Speed Heat  
-
-### MotorStorm RC  
-⭐⭐⭐⭐  
-**Sinopsis:** Carreras arcade con vehículos tipo RC en pistas dinámicas y caóticas. Multijugador local y saltos espectaculares.  
-**Juego moderno similar:** Mini Motor Racing X  
-
-### Sonic & All-Stars Racing Transformed  
-⭐⭐⭐⭐  
-**Sinopsis:** Carreras estilo kart con cambio de vehículos entre coche, avión y barco. Diversión arcade garantizada y multijugador local u online.  
-**Juego moderno similar:** Mario Kart 8 Deluxe  
 
 ---
 
