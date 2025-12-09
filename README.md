@@ -30,347 +30,332 @@ Esta es la **colección definitiva de juegos de PS Vita**, organizada por géner
 
 ## 🩸 SOULS-LIKE & ACCIÓN DIFÍCIL
 
-### Soul Sacrifice + Delta
+### Soul Sacrifice + Delta  
 ⭐⭐⭐⭐⭐❤  
-**Sinopsis:** En un mundo oscuro y mágico, controlas un guerrero que combate monstruos gigantes usando magia y sacrificios de su propio poder. Cada decisión moral impacta la historia y tu progresión; salvar o sacrificar almas, incluso la tuya, cambia el rumbo del juego. Incluye combates estratégicos, jefes gigantes y escenarios densos que exigen precisión y planificación.  
-**Juego moderno similar:** Dark Souls III
+**Sinopsis:** En un mundo oscuro y mágico, controlas un guerrero que combate monstruos gigantes usando magia y sacrificios de su propio poder. Cada decisión moral impacta la historia y tu progresión.  
+**Juego moderno similar:** Dark Souls III  
 
-### Salt and Sanctuary
+### Salt and Sanctuary  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Metroidvania 2D con inspiración Souls. Explora un mundo sombrío lleno de enemigos, trampas y jefes colosales. Combate técnico con parrys y magia; cada muerte enseña a mejorar estrategias. El sistema de progresión y la exploración profunda hacen que cada partida sea intensa y rejugable.  
-**Juego moderno similar:** Dead Cells
+**Sinopsis:** Metroidvania 2D inspirado en Souls. Explora un mundo sombrío lleno de enemigos, trampas y jefes colosales. Cada muerte enseña a mejorar estrategias.  
+**Juego moderno similar:** Dead Cells  
 
-### Dragon’s Crown
+### Dragon’s Crown  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Aventúrate en mazmorras como distintos héroes, cada uno con habilidades únicas. Combate hordas de enemigos, recoge loot, resuelve puzzles y enfrenta jefes que requieren estrategia. Todo esto en un mundo dibujado a mano con narrativa fantástica y rejugabilidad alta.  
-**Juego moderno similar:** Diablo III
+**Sinopsis:** Aventúrate en mazmorras como distintos héroes, cada uno con habilidades únicas. Combate hordas, recoge loot y enfrenta jefes estratégicos en un mundo dibujado a mano.  
+**Juego moderno similar:** Diablo III  
 
-### Odin Sphere: Leifthrasir
+### Odin Sphere: Leifthrasir  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Vive las historias de cinco héroes en un mundo medieval de fantasía. Combate fluido, magia y narrativa profunda con finales múltiples. Escenarios y personajes pintados a mano, música épica, experiencia cinematográfica.  
-**Juego moderno similar:** Ni no Kuni II
+**Sinopsis:** Vive las historias de cinco héroes en un mundo medieval de fantasía. Combate fluido, magia y narrativa profunda con finales múltiples.  
+**Juego moderno similar:** Ni no Kuni II  
 
-### Muramasa Rebirth
+### Muramasa Rebirth  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Explora un Japón feudal fantástico con mapas interconectados, combate rápido y escenarios pintados a mano. Cada espada y habilidad tiene estilo único, y los enemigos requieren estrategia y timing.  
-**Juego moderno similar:** Hollow Knight
+**Sinopsis:** Explora un Japón feudal fantástico con mapas interconectados y combate rápido. Cada espada y habilidad tiene estilo único.  
+**Juego moderno similar:** Hollow Knight  
 
 ---
 
 ## ⚔ JRPG & RPG PROFUNDOS
 
-### The Legend of Heroes: Trails of Cold Steel
+### The Legend of Heroes: Trails of Cold Steel  
 ⭐⭐⭐⭐⭐❤  
-**Sinopsis:** Narrativa política y conspirativa con un mundo vivo que cambia según tus decisiones. Combate táctico, desarrollo profundo de personajes y relaciones que evolucionan con la historia. Para fans de Baldur’s Gate y RPG con estrategia.  
-**Juego moderno similar:** Baldur’s Gate 3
+**Sinopsis:** Narrativa política y conspirativa con un mundo vivo que cambia según tus decisiones. Combate táctico y desarrollo profundo de personajes.  
+**Juego moderno similar:** Baldur’s Gate 3  
 
-### Persona 4 Golden
+### Persona 4 Golden  
 ⭐⭐⭐⭐⭐⭐❤  
-**Sinopsis:** JRPG que combina vida social, exploración de mazmorras, minijuegos y combates por turnos. Cada decisión afecta relaciones y finales. Amplia rejugabilidad con historia absorbente y personajes memorables.  
-**Juego moderno similar:** Persona 5
+**Sinopsis:** JRPG que combina vida social, exploración de mazmorras y combates por turnos. Cada decisión afecta relaciones y finales.  
+**Juego moderno similar:** Persona 5  
 
-### Ys: Memories of Celceta
+### Ys: Memories of Celceta  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Explora un mundo extenso, combate en tiempo real y descubre secretos antiguos. Sistema de combos y progresión de habilidades muy entretenido.  
-**Juego moderno similar:** Tales of Arise
+**Sinopsis:** Explora un mundo extenso, combate en tiempo real y descubre secretos antiguos con un sistema de combos entretenido.  
+**Juego moderno similar:** Tales of Arise  
 
-### Tokyo Xanadu
+### Tokyo Xanadu  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Mezcla acción RPG con vida social y exploración de mazmorras. Combates dinámicos, narrativa juvenil y decisiones que impactan relaciones y eventos.  
-**Juego moderno similar:** Persona 5 Strikers
+**Sinopsis:** Mezcla acción RPG con vida social y exploración de mazmorras. Combates dinámicos y decisiones que impactan relaciones y eventos.  
+**Juego moderno similar:** Persona 5 Strikers  
 
-### Toukiden Kiwami
+### Toukiden Kiwami  
 ⭐⭐⭐⭐  
-**Sinopsis:** Caza demonios Oni en un Japón feudal. Mejora armas, coopera con aliados y explora mapas extensos llenos de enemigos. Cada enfrentamiento exige estrategia y control preciso.  
-**Juego moderno similar:** Monster Hunter: World
+**Sinopsis:** Caza demonios Oni en un Japón feudal. Mejora armas, coopera con aliados y explora mapas llenos de enemigos.  
+**Juego moderno similar:** Monster Hunter: World  
 
-### Freedom Wars + Extended
+### Freedom Wars + Extended  
 ⭐⭐⭐⭐  
-**Sinopsis:** Futuro distópico donde luchas para reducir tu condena. Explora, combate y mejora tu equipo mientras cumples misiones en un mundo vivo y hostil. Extended añade más contenido, enemigos y misiones.  
-**Juego moderno similar:** Deus Ex: Human Revolution
+**Sinopsis:** Futuro distópico donde luchas para reducir tu condena. Explora, combate y mejora tu equipo mientras cumples misiones en un mundo hostil.  
+**Juego moderno similar:** Deus Ex: Human Revolution  
 
-### Demon Gaze
+### Demon Gaze  
 ⭐⭐⭐⭐  
-**Sinopsis:** Explora mazmorras llenas de trampas y monstruos. Combate estratégico, desarrollo de personajes y resolución de puzzles. Sensación de exploración profunda y progresión al estilo Souls.  
-**Juego moderno similar:** Etrian Odyssey
+**Sinopsis:** Explora mazmorras llenas de trampas y monstruos. Combate estratégico, desarrollo de personajes y resolución de puzzles.  
+**Juego moderno similar:** Etrian Odyssey  
 
-### Dungeon Travelers 2
+### Dungeon Travelers 2  
 ⭐⭐⭐⭐  
 **Sinopsis:** RPG táctico con mazmorras difíciles, estrategia en batalla y gestión de equipo. Requiere planificación y optimización de builds para sobrevivir.  
-**Juego moderno similar:** Fire Emblem: Three Houses
+**Juego moderno similar:** Fire Emblem: Three Houses  
 
 ---
 
 ## 🧠 ESTRATEGIA, 4X Y GESTIÓN
 
-### Civilization Revolution 2+
+### Civilization Revolution 2+  
 ⭐⭐⭐⭐⭐❤  
-**Sinopsis:** Lleva tu civilización desde la Edad de Piedra al espacio. Gestiona economía, tecnología, guerra y diplomacia en partidas rápidas o extensas. Portátil perfecto para los fans de 4X.  
-**Juego moderno similar:** Civilization VI
+**Sinopsis:** Lleva tu civilización desde la Edad de Piedra al espacio. Gestiona economía, tecnología, guerra y diplomacia en partidas rápidas o extensas.  
+**Juego moderno similar:** Civilization VI  
 
-### Tactics Ogre: Let Us Cling Together (PSP)
-⭐⭐⭐⭐⭐❤  
-**Sinopsis:** SRPG táctico con narrativa profunda. Decisiones políticas afectan la guerra y los personajes. Combate estratégico por turnos con profundidad máxima.  
-**Juego moderno similar:** Fire Emblem: Three Houses
-
-### Banner Saga
+### Banner Saga  
 ⭐⭐⭐⭐  
 **Sinopsis:** Estrategia por turnos con narrativa nórdica. Decisiones morales difíciles y consecuencias irreversibles. Combate táctico y estilo artístico impecable.  
-**Juego moderno similar:** Gears Tactics
+**Juego moderno similar:** Gears Tactics  
 
-### A-Train Express
+### A-Train Express  
 ⭐⭐⭐⭐  
 **Sinopsis:** Simulador ferroviario y de gestión de transporte. Construye, gestiona y optimiza rutas mientras equilibras economía y satisfacción de pasajeros.  
-**Juego moderno similar:** Cities: Skylines
+**Juego moderno similar:** Cities: Skylines  
 
-### Prison Architect
+### Prison Architect  
 ⭐⭐⭐⭐  
 **Sinopsis:** Construye y administra tu prisión. Gestiona reclusos, diseño de celdas, personal y seguridad. Sandbox creativo y muy adictivo.  
-**Juego moderno similar:** RimWorld
+**Juego moderno similar:** RimWorld  
 
 ---
 
 ## 🎭 VISUAL NOVELS
 
-### Danganronpa 1 & 2
+### Danganronpa 1 & 2  
 ⭐⭐⭐⭐⭐❤  
-**Sinopsis:** Asesinatos misteriosos, juicios tensos y traiciones. Historia absorbente y giros impactantes. Multitud de personajes memorables y decisiones críticas.  
-**Juego moderno similar:** AI: The Somnium Files
+**Sinopsis:** Asesinatos misteriosos, juicios tensos y traiciones. Historia absorbente y giros impactantes.  
+**Juego moderno similar:** AI: The Somnium Files  
 
-### Steins;Gate
+### Steins;Gate  
 ⭐⭐⭐⭐⭐⭐❤  
-**Sinopsis:** Viajes en el tiempo, conspiraciones y ciencia ficción profunda. Cada decisión afecta finales y relaciones. Historia absorbente con personajes inolvidables.  
-**Juego moderno similar:** 13 Sentinels: Aegis Rim
+**Sinopsis:** Viajes en el tiempo, conspiraciones y ciencia ficción profunda. Cada decisión afecta finales y relaciones.  
+**Juego moderno similar:** 13 Sentinels: Aegis Rim  
 
-### Zero Escape: Virtue’s Last Reward
+### Zero Escape: Virtue’s Last Reward  
 ⭐⭐⭐⭐⭐  
 **Sinopsis:** Secuela de 999. Resolver enigmas mortales mientras tomas decisiones que afectan finales múltiples. Historia retorcida y envolvente.  
-**Juego moderno similar:** AI: The Somnium Files
+**Juego moderno similar:** AI: The Somnium Files  
 
-### Corpse Party Blood Drive
+### Corpse Party Blood Drive  
 ⭐⭐⭐⭐  
 **Sinopsis:** Terror psicológico japonés. Explora escuelas embrujadas y evita trampas mortales. Historia intensa con muerte constante de personajes.  
-**Juego moderno similar:** The Coma 2
+**Juego moderno similar:** The Coma 2  
 
 ---
 
 ## 🌀 METROIDVANIA & INDIES
 
-### Shovel Knight: Treasure Trove
+### Shovel Knight: Treasure Trove  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Plataformas retro con combate justo, diseño artesanal, niveles creativos y jefes desafiantes. Cada nivel recompensa exploración y resolución de puzzles.  
-**Juego moderno similar:** Celeste
+**Sinopsis:** Plataformas retro con combate justo, diseño artesanal, niveles creativos y jefes desafiantes.  
+**Juego moderno similar:** Celeste  
 
-### Guacamelee!
+### Guacamelee!  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Metroidvania mexicano con combate cuerpo a cuerpo, habilidades especiales y puzzles. Humor y colorido combinados con un gameplay sólido.  
-**Juego moderno similar:** Hollow Knight
+**Sinopsis:** Metroidvania mexicano con combate cuerpo a cuerpo, habilidades especiales y puzzles. Humor y colorido combinados con gameplay sólido.  
+**Juego moderno similar:** Hollow Knight  
 
-### Axiom Verge
+### Axiom Verge  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Metroidvania con mundo alienígena abierto, armas únicas, secretos escondidos y narrativa misteriosa. Requiere exploración y análisis constante.  
-**Juego moderno similar:** Ori and the Blind Forest
+**Sinopsis:** Metroidvania con mundo alienígena abierto, armas únicas, secretos escondidos y narrativa misteriosa.  
+**Juego moderno similar:** Ori and the Blind Forest  
 
-### Super Meat Boy
+### Super Meat Boy  
 ⭐⭐⭐⭐  
-**Sinopsis:** Plataformas retro ultra difíciles. Saltos precisos, niveles cortos pero frenéticos, rejugabilidad infinita.  
-**Juego moderno similar:** Celeste
+**Sinopsis:** Plataformas retro ultra difíciles. Saltos precisos y niveles frenéticos.  
+**Juego moderno similar:** Celeste  
 
-### Hotline Miami 1 & 2
+### Hotline Miami 1 & 2  
 ⭐⭐⭐⭐  
-**Sinopsis:** Acción top-down con niveles intensos, reflejos al límite y estética retro ochentera. Combina violencia estilizada con planificación rápida.  
-**Juego moderno similar:** Ruiner
+**Sinopsis:** Acción top-down con niveles intensos, reflejos al límite y estética retro ochentera.  
+**Juego moderno similar:** Ruiner  
 
 ---
 
 ## 🔥 AVENTURA / ACCIÓN / SANDBOX
 
-### Gravity Rush
+### Gravity Rush  
 ⭐⭐⭐⭐⭐❤  
-**Sinopsis:** Controlas a Kat, capaz de manipular la gravedad. Explora una ciudad flotante, realiza combates dinámicos y resuelve puzzles mientras vuelas libremente. Sensación única de exploración vertical.  
-**Juego moderno similar:** Control
+**Sinopsis:** Controlas a Kat, capaz de manipular la gravedad. Explora una ciudad flotante, realiza combates dinámicos y resuelve puzzles mientras vuelas libremente.  
+**Juego moderno similar:** Control  
 
-### Uncharted: Golden Abyss
+### Uncharted: Golden Abyss  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Aventura estilo Indiana Jones. Explora ruinas, resuelve puzzles y combate enemigos en entornos abiertos con narrativa cinematográfica. Uso de mecánicas táctiles para interacciones únicas.  
-**Juego moderno similar:** Uncharted 4
+**Sinopsis:** Aventura estilo Indiana Jones. Explora ruinas, resuelve puzzles y combate enemigos en entornos abiertos con narrativa cinematográfica.  
+**Juego moderno similar:** Uncharted 4  
 
-### Minecraft: PS Vita Edition
+### Minecraft: PS Vita Edition  
 ⭐⭐⭐⭐  
 **Sinopsis:** Construcción y exploración libre. Juega solo o cooperativo. Libertad total para crear mundos infinitos y experimentar con sandbox.  
-**Juego moderno similar:** Minecraft (moderno)
+**Juego moderno similar:** Minecraft (moderno)  
 
-### Terraria
+### Terraria  
 ⭐⭐⭐⭐⭐  
 **Sinopsis:** Sandbox 2D con crafting, combate, exploración y progresión. Libertad total y mundo vivo con eventos dinámicos.  
-**Juego moderno similar:** Terraria (moderno)
+**Juego moderno similar:** Terraria (moderno)  
 
-### Don’t Starve
+### Don’t Starve  
 ⭐⭐⭐⭐  
 **Sinopsis:** Supervivencia pura, recolecta recursos, evita peligros y sobrevive en un mundo hostil con ciclo día/noche y permadeath.  
-**Juego moderno similar:** Don't Starve Together
+**Juego moderno similar:** Don't Starve Together  
 
-### Akiba’s Trip: Undead & Undressed
+### Akiba’s Trip: Undead & Undressed (Fanservice)  
 ⭐⭐⭐  
-**Sinopsis:** Explora Akihabara, lucha contra vampiros y disfruta del humor absurdo. Ciudad viva con misiones secundarias y mecánicas únicas.  
-**Juego moderno similar:** Yakuza 0
+**Sinopsis:** Explora Akihabara, lucha contra vampiros y disfruta del humor absurdo y fanservice.  
+**Juego moderno similar:** Yakuza 0  
 
-### Assassin’s Creed III: Liberation
+### Assassin’s Creed III: Liberation  
 ⭐⭐⭐⭐  
 **Sinopsis:** Sigue a Aveline de Grandpré en Nueva Orleans del siglo XVIII. Combina parkour, sigilo y combate.  
-**Juego moderno similar:** Assassin’s Creed IV: Black Flag
+**Juego moderno similar:** Assassin’s Creed IV: Black Flag  
+
+---
 
 ## 🏎 CARRERAS / ARCADE / FUTURISTAS
 
-### WipEout 2048
+### WipEout 2048  
 ⭐⭐⭐⭐⭐❤  
-**Sinopsis:** Carreras futuristas con naves antigravitatorias, loops imposibles, saltos y armas de combate. Sensación de velocidad extrema y diseño de circuitos impecable. Multijugador intenso y reto constante para dominar cada pista.  
-**Juego moderno similar:** F-Zero / Fast RMX
+**Sinopsis:** Carreras futuristas con naves antigravitatorias, loops imposibles, saltos y armas de combate. Sensación de velocidad extrema y multijugador intenso.  
+**Juego moderno similar:** F-Zero / Fast RMX  
 
-### Ridge Racer (PS Vita)
+### Ridge Racer (PS Vita)  
 ⭐⭐⭐☆☆  
-**Sinopsis:** Drift arcade puro, centrado en curvas largas y deslizamientos perfectos. Muy divertido y con mecánicas clásicas de Ridge Racer, pero limitado en coches y pistas. Ideal solo para fans del drift.  
-**Juego moderno similar:** Ridge Racer Unbounded
+**Sinopsis:** Drift arcade puro, centrado en curvas largas y deslizamientos perfectos. Muy divertido pero limitado en coches y pistas.  
+**Juego moderno similar:** Ridge Racer Unbounded  
 
-### Need for Speed: Most Wanted (Vita)
+### Need for Speed: Most Wanted (Vita)  
 ⭐⭐⭐⭐  
-**Sinopsis:** Carreras urbanas y persecuciones policiales en mundo semiabierto. Combina acción arcade con conducción realista ligera. Personalización de coches y multijugador portátil para partidas rápidas.  
-**Juego moderno similar:** Need for Speed Heat
+**Sinopsis:** Carreras urbanas y persecuciones policiales en mundo semiabierto. Acción arcade con conducción ligera y multijugador portátil.  
+**Juego moderno similar:** Need for Speed Heat  
 
-### MotorStorm RC
+### MotorStorm RC  
 ⭐⭐⭐⭐  
-**Sinopsis:** Carreras arcade con vehículos tipo RC en pistas dinámicas y caóticas. Multijugador local, velocidad intensa y saltos espectaculares. Ideal para partidas rápidas y rejugables.  
-**Juego moderno similar:** Mini Motor Racing X
+**Sinopsis:** Carreras arcade con vehículos tipo RC en pistas dinámicas y caóticas. Multijugador local y saltos espectaculares.  
+**Juego moderno similar:** Mini Motor Racing X  
 
-### Sonic & All-Stars Racing Transformed
+### Sonic & All-Stars Racing Transformed  
 ⭐⭐⭐⭐  
-**Sinopsis:** Carreras estilo kart con cambio de vehículos entre coche, avión y barco. Diversión arcade garantizada, pistas creativas y multijugador local o online.  
-**Juego moderno similar:** Mario Kart 8 Deluxe
+**Sinopsis:** Carreras estilo kart con cambio de vehículos entre coche, avión y barco. Diversión arcade garantizada y multijugador local u online.  
+**Juego moderno similar:** Mario Kart 8 Deluxe  
 
 ---
 
 ## 🔫 SHOOTERS / ACCIÓN
 
-### Killzone: Mercenary
+### Killzone: Mercenary  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Shooter futurista en primera persona con campaña narrativa y multijugador online. Gráficos de gran nivel para portátil, variedad de armas y escenarios destructibles.  
-**Juego moderno similar:** Killzone Shadow Fall
+**Sinopsis:** Shooter futurista en primera persona con campaña narrativa y multijugador online.  
+**Juego moderno similar:** Killzone Shadow Fall  
 
-### Call of Duty: Black Ops Declassified
+### Call of Duty: Black Ops Declassified  
 ⭐⭐⭐☆☆  
-**Sinopsis:** Shooter adaptado a portátil. Campaña corta y multijugador rápido. Buena acción, pero limitado en contenido y duración comparado con versiones de consola.  
-**Juego moderno similar:** Call of Duty: Modern Warfare (console)
+**Sinopsis:** Shooter adaptado a portátil. Campaña corta y multijugador rápido.  
+**Juego moderno similar:** Call of Duty: Modern Warfare (console)  
 
-### Helldivers
+### Helldivers  
 ⭐⭐⭐⭐  
-**Sinopsis:** Shooter táctico cooperativo en planetas hostiles. Estrategia, riesgo y coordinación constante mientras progresas con equipo y armas.  
-**Juego moderno similar:** Alienation
+**Sinopsis:** Shooter táctico cooperativo en planetas hostiles. Estrategia, riesgo y coordinación constante.  
+**Juego moderno similar:** Alienation  
 
-### Borderlands 2
+### Borderlands 2  
 ⭐⭐⭐⭐  
-**Sinopsis:** Shooter loot cooperativo en mundo abierto. Acción, humor negro y progresión de personajes. Adaptación excelente a portátil con controles ajustados.  
-**Juego moderno similar:** Borderlands 3
+**Sinopsis:** Shooter loot cooperativo en mundo abierto. Acción, humor negro y progresión de personajes.  
+**Juego moderno similar:** Borderlands 3  
 
 ---
 
 ## ⚽ DEPORTES / SIMULACIONES
 
-### FIFA 15
+### FIFA 15  
 ⭐⭐⭐⭐  
-**Sinopsis:** Portación de FIFA adaptada a portátil. Modos de temporada, torneos y partidos rápidos. Controles optimizados para Vita.  
-**Juego moderno similar:** FIFA 23
+**Sinopsis:** Portación de FIFA adaptada a portátil. Modos de temporada, torneos y partidos rápidos.  
+**Juego moderno similar:** FIFA 23  
 
-### Pro Evolution Soccer 2014
+### Pro Evolution Soccer 2014  
 ⭐⭐⭐⭐  
-**Sinopsis:** Alternativa a FIFA. Jugabilidad fluida, modos de temporada y torneos. Controles adaptados a portátil.  
-**Juego moderno similar:** eFootball 2025
+**Sinopsis:** Alternativa a FIFA. Jugabilidad fluida, modos de temporada y torneos.  
+**Juego moderno similar:** eFootball 2025  
 
-### NBA 2K14
+### NBA 2K14  
 ⭐⭐⭐⭐  
-**Sinopsis:** Simulación de baloncesto completa. Modos MyPlayer, temporada y multijugador online. Calidad portátil comparable a consolas mayores.  
-**Juego moderno similar:** NBA 2K24
-
-### Wipeout 2048
-⭐⭐⭐⭐⭐  
-**Sinopsis:** Carreras futuristas con naves antigravitatorias. Sensación de velocidad extrema y multijugador frenético. Diseño de pistas y armas únicos.  
-**Juego moderno similar:** Fast RMX / F-Zero
+**Sinopsis:** Simulación de baloncesto completa. Modos MyPlayer, temporada y multijugador online.  
+**Juego moderno similar:** NBA 2K24  
 
 ---
 
 ## 🎮 PLATAFORMAS & AVENTURA CREATIVA
 
-### Rayman Legends
+### Rayman Legends  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Plataformas fluidas y coloridas. Cada nivel ofrece desafíos que recompensan exploración y creatividad. Animaciones exquisitas y música dinámica.  
-**Juego moderno similar:** Ori and the Will of the Wisps
+**Sinopsis:** Plataformas fluidas y coloridas. Cada nivel ofrece desafíos que recompensan exploración y creatividad.  
+**Juego moderno similar:** Ori and the Will of the Wisps  
 
-### Rayman Origins
+### Rayman Origins  
 ⭐⭐⭐⭐  
-**Sinopsis:** Plataformas 2D con niveles creativos y coloridos. Estilo relajado pero desafiante, ideal para sesiones por etapas.  
-**Juego moderno similar:** Rayman Legends
+**Sinopsis:** Plataformas 2D con niveles creativos y coloridos. Estilo relajado pero desafiante.  
+**Juego moderno similar:** Rayman Legends  
 
-### Tearaway
+### Tearaway  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Mundo de papel interactivo. Resuelve puzzles, interactúa con el entorno y disfruta de narrativa alegre y mágica. Mecánicas únicas usando pantalla táctil y panel trasero de Vita.  
-**Juego moderno similar:** Dreams (PS4)
-
-### Shovel Knight: Treasure Trove
-⭐⭐⭐⭐⭐  
-**Sinopsis:** Plataformas retro con combate justo y diseño artesanal. Recompensa exploración, resolución de puzzles y estética clásica de 8-16 bits.  
-**Juego moderno similar:** Celeste
+**Sinopsis:** Mundo de papel interactivo. Resuelve puzzles, interactúa con el entorno y disfruta de narrativa alegre y mágica.  
+**Juego moderno similar:** Dreams (PS4)  
 
 ---
 
-## 🕹 PSP / PSONE PORTS COMPATIBLES CON VITA
+## 💾 PORTS / REMASTERS (PSP / PS1 / PS2)
 
-### Crisis Core: Final Fantasy VII
+> **Nota:** Estos juegos no son exclusivos de PS Vita, sino que son **puertos, remasters o adaptaciones** de consolas anteriores. Permiten disfrutar de clásicos con mejoras gráficas, controles adaptados o contenido extendido.  
+
+### Crisis Core: Final Fantasy VII  
 ⭐⭐⭐⭐⭐  
 **Sinopsis:** Precuela de FFVII. Historia profunda, combates dinámicos y mejoras gráficas adaptadas a Vita.  
-**Juego moderno similar:** Final Fantasy VII Remake
+**Juego moderno similar:** Final Fantasy VII Remake  
 
-### Patapon 2 / 3
+### Patapon 2 / 3  
 ⭐⭐⭐⭐  
-**Sinopsis:** Estrategia rítmica. Controla un ejército al compás de la música. Único y adictivo.  
-**Juego moderno similar:** Crypt of the NecroDancer
+**Sinopsis:** Estrategia rítmica. Controla un ejército al compás de la música.  
+**Juego moderno similar:** Crypt of the NecroDancer  
 
-### God of War: Chains of Olympus / Ghost of Sparta
+### God of War: Chains of Olympus / Ghost of Sparta  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Hack & slash mitológico con narrativa épica. Controles adaptados a Vita, doble stick y pantalla más grande.  
-**Juego moderno similar:** God of War (2018)
+**Sinopsis:** Hack & slash mitológico con narrativa épica. Controles adaptados a portátil.  
+**Juego moderno similar:** God of War (2018)  
 
-### Metal Gear Solid HD Collection
+### Metal Gear Solid HD Collection  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Incluye MGS2 y MGS3 remasterizados. Sigilo, narrativa profunda y espionaje militar. Mecánicas de infiltración adaptadas a portátil.  
-**Juego moderno similar:** Metal Gear Solid V
+**Sinopsis:** Incluye MGS2 y MGS3 remasterizados. Sigilo y narrativa profunda.  
+**Juego moderno similar:** Metal Gear Solid V  
 
-### Final Fantasy X / X-2 HD Remaster
+### Final Fantasy X / X-2 HD Remaster  
 ⭐⭐⭐⭐⭐  
-**Sinopsis:** Remaster de clásicos PS2. Historia épica, combate por turnos, mundo vibrante y cinematics memorables.  
-**Juego moderno similar:** Final Fantasy XV
+**Sinopsis:** Remaster de clásicos PS2. Historia épica, combate por turnos y cinemáticas memorables.  
+**Juego moderno similar:** Final Fantasy XV  
 
----
-
-## 🌆 PORTS DE GTA / MUNDO ABIERTO
-
-### San Andreas (GTA: San Andreas PSP/Vita Port)
+### San Andreas (GTA: San Andreas PSP/Vita Port)  
 ⭐⭐⭐⭐  
-**Sinopsis:** Explora ciudad abierta, cumple misiones y vive la historia completa. Adaptado a portátil con controles optimizados.  
-**Juego moderno similar:** GTA: The Trilogy – Definitive Edition
+**Sinopsis:** Explora ciudad abierta, cumple misiones y vive la historia completa.  
+**Juego moderno similar:** GTA: The Trilogy – Definitive Edition  
 
-### Vice City Stories
+### Vice City Stories  
 ⭐⭐⭐⭐  
-**Sinopsis:** Portabilidad perfecta de PSP. Explora la ciudad entre Vice City y GTA III. Misiones, vehículos y mundo abierto clásico.  
-**Juego moderno similar:** GTA: The Trilogy – Definitive Edition
+**Sinopsis:** Portabilidad perfecta de PSP. Explora la ciudad entre Vice City y GTA III.  
+**Juego moderno similar:** GTA: The Trilogy – Definitive Edition  
 
-### Liberty City Stories
+### Liberty City Stories  
 ⭐⭐⭐⭐  
-**Sinopsis:** Precuela de GTA III. Port de PSP compatible con Vita. Controles adaptados y ciudad completa a tu disposición.  
-**Juego moderno similar:** GTA V
+**Sinopsis:** Precuela de GTA III. Port de PSP compatible con Vita.  
+**Juego moderno similar:** GTA V  
 
-### Chinatown Wars
+### Chinatown Wars  
 ⭐⭐⭐⭐  
 **Sinopsis:** Estilo top-down con minijuegos y narrativa típica. Innovador y divertido en portátil.  
-**Juego moderno similar:** Saints Row: The Third
+**Juego moderno similar:** Saints Row: The Third  
 
 ---
 
