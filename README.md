@@ -16,6 +16,64 @@ ANIME:  Kakegurui
 
 
 
+## 🛠 Homebrew, Adrenaline y VitaShell en PS Vita
+
+La PS Vita es una consola portátil increíble, pero muchas veces limitada por su tienda oficial y compatibilidad de juegos. Para los usuarios avanzados, existe **homebrew**, que permite ampliar enormemente las capacidades de la consola.
+
+---
+
+### 1️⃣ Homebrew
+
+- **Qué es:** Homebrew es software **no oficial** creado por la comunidad que se puede ejecutar en la PS Vita.  
+- **Qué permite hacer:**
+  - Instalar juegos y aplicaciones caseras.  
+  - Ejecutar emuladores de consolas antiguas (PSP, PS1, SNES, NES, etc.).  
+  - Ejecutar backups de tus propios juegos físicos o digitales.  
+  - Personalizar la consola con plugins y utilidades.  
+- **Nota:** No se trata necesariamente de piratería. Puedes usar homebrew con tus juegos originales o backups legales.  
+
+---
+
+### 2️⃣ VitaShell
+
+- **Qué es:** Es el **gestor de archivos principal para PS Vita con homebrew**.  
+- **Qué hace:**
+  - Permite copiar, mover y borrar archivos en la tarjeta de memoria de la Vita.  
+  - Instalar juegos en formato **VPK** (el equivalente a un paquete de instalación).  
+  - Crear backups de cartuchos físicos y gestionar aplicaciones homebrew.  
+  - Explorar la memoria interna y tarjetas externas de la consola, como un **explorador de archivos avanzado**.  
+
+---
+
+### 3️⃣ Adrenaline
+
+- **Qué es:** Emulador de PSP para PS Vita.  
+- **Qué hace:**
+  - Permite ejecutar **juegos de PSP y PS1** en la Vita.  
+  - Incluye un **sistema de menú similar al de PSP**, con acceso a tus juegos y saves.  
+  - Puedes usarlo para jugar tanto **backups digitales** como **ISO/CSO de tus propios juegos**.  
+- **Cómo se ve en la consola:** 
+  - Los juegos PSP no crean bubbles independientes en la Vita, sino que se lanzan desde Adrenaline.  
+  - Algunos usuarios avanzados pueden configurar Adrenaline para que cada juego PSP se vea como un **icono independiente** en LiveArea, pero requiere pasos adicionales.  
+
+---
+
+### 4️⃣ Cómo se integran los juegos
+
+| Tipo de juego                        | Cómo se ve en la Vita |
+|--------------------------------------|---------------------|
+| Juegos Vita homebrew / backups VPK    | Bubbles en LiveArea, como juegos normales |
+| Juegos PSP / PS1 vía Adrenaline       | Menú de Adrenaline; no bubbles por defecto |
+| Aplicaciones homebrew                 | Normalmente dentro de VitaShell; algunos se pueden crear como bubbles |
+
+---
+
+💡 **Resumen:**  
+Si quieres tener toda la **biblioteca de PS Vita completa**, incluyendo títulos descatalogados o ports difíciles de conseguir, **homebrew + VitaShell + Adrenaline** es la forma más práctica. Los juegos de Vita se integran como apps normales, mientras que PSP/PS1 se gestionan desde un menú emulador, pero todo funciona dentro de la misma consola.
+
+
+
+
 
 
 
