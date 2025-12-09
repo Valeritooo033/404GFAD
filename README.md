@@ -58,20 +58,20 @@ La PS Vita es una consola portátil increíble, pero muchas veces limitada por s
 
 ---
 
-### 4️⃣ Cómo se integran los juegos
+### 4️⃣ Cómo se integran los juegos (respondiendo a la pregunta de bubbles vs menú)
 
 | Tipo de juego                        | Cómo se ve en la Vita |
 |--------------------------------------|---------------------|
-| Juegos Vita homebrew / backups VPK    | Bubbles en LiveArea, como juegos normales |
-| Juegos PSP / PS1 vía Adrenaline       | Menú de Adrenaline; no bubbles por defecto |
-| Aplicaciones homebrew                 | Normalmente dentro de VitaShell; algunos se pueden crear como bubbles |
+| Juegos Vita homebrew / backups VPK    | **Bubbles en LiveArea**, como juegos normales. Esto significa que se comportan igual que un juego oficial, con su propio icono y portada. |
+| Juegos PSP / PS1 vía Adrenaline       | **Menú de Adrenaline**, no bubbles por defecto. Es un “contenedor” donde eliges el juego que quieres ejecutar. Se puede configurar para que aparezcan como bubbles, pero requiere pasos extra. |
+| Aplicaciones homebrew                 | Normalmente dentro de **VitaShell** o un menú de homebrew; algunos se pueden crear como bubbles con ajustes adicionales. |
+
+> 🔹 En otras palabras: **los juegos Vita homebrew se ven como juegos normales**, mientras que los juegos de PSP/PS1 o apps caseras suelen aparecer en un menú aparte, a menos que hagas configuraciones extra para integrarlos como bubbles.
 
 ---
 
-💡 **Resumen:**  
+💡 **Resumen práctico:**  
 Si quieres tener toda la **biblioteca de PS Vita completa**, incluyendo títulos descatalogados o ports difíciles de conseguir, **homebrew + VitaShell + Adrenaline** es la forma más práctica. Los juegos de Vita se integran como apps normales, mientras que PSP/PS1 se gestionan desde un menú emulador, pero todo funciona dentro de la misma consola.
-
-
 
 
 
