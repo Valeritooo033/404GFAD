@@ -535,3 +535,201 @@ Esta es la **colección definitiva de juegos de PS Vita**, organizada por géner
 
 ---
 
+
+
+
+
+
+
+# 📌 Ocultar Burbujas del Menú de PS Vita (Cualquier App, Incluidas Nativas)
+
+Guía completa y técnica para ocultar aplicaciones del menú **LiveArea** en PS Vita sin desinstalarlas, usando plugins o editando la base de datos `app.db`.  
+Formato 100% Markdown, limpio, listo para README.md.
+
+---
+
+## 📑 Índice
+
+1. Requisitos + Advertencias
+2. Qué es una burbuja y por qué sigue existiendo en VitaShell
+3. Método recomendado ➤ Plugin (NoBubble / AppHide)
+4. Método avanzado ➤ SQLite + edición de `app.db`
+5. Cómo identificar TitleIDs
+6. Ejemplo completo ocultando Browser
+7. Ocultar apps nativas (Browser/Mail)
+8. Cómo revertir cambios
+9. Recomendaciones finales
+
+---
+
+## 1) 🛑 Requisitos & Advertencias
+
+- PS Vita con **CFW / HENkaku / Enso / taiHEN**
+- **VitaShell** operativo
+- Acceso USB o FTP para mover archivos
+
+### Antes de tocar nada → BACKUP obligatorio:
+
+ur0:/tai/config.txt
+ur0:/shell/db/app.db
+ux0:/app/
+ur0:/app/
+
+yaml
+Copiar código
+
+⚠ **Riesgo**:  
+Modificaciones incorrectas en `app.db` pueden romper LiveArea o hacer que apps desaparezcan sin forma fácil de recuperarlas si no hiciste copia.
+
+---
+
+## 2) 🧠 Qué es una *burbuja*
+
+- Las burbujas visibles del menú son entradas almacenadas en `app.db`
+- Aunque la burbuja desaparezca, **la app sigue instalada** en el sistema
+- En **VitaShell siempre estarán visibles**:
+
+ux0:/app/TITLEID/
+ur0:/app/TITLEID/
+
+yaml
+Copiar código
+
+Por eso **ocultar ≠ borrar**.
+
+---
+
+## 3) ✔ Método Recomendado — Plugin **NoBubble / AppHide**
+
+Solución segura y reversible.  
+Ideal si quieres ocultar sin modificar base de datos.
+
+### Pasos
+
+1. Copia plugin a:
+
+ur0:/tai/
+
+markdown
+Copiar código
+
+2. Edita `ur0:/tai/config.txt`:
+
+*KERNEL
+ur0:tai/nobubble.suprx
+
+css
+Copiar código
+
+3. Crea/edita archivo del plugin con TitleIDs a ocultar:
+
+NPXS10019
+NPXS10020
+TUS_TITLES_AQUI
+
+yaml
+Copiar código
+
+4. Reinicia → burbujas ocultas, apps aún accesibles desde VitaShell.
+
+### Para desocultar apps:
+
+- Elimina el TitleID del archivo del plugin  
+- Reinicia  
+
+---
+
+## 4) ⚙ Método Avanzado — Editar `app.db` con SQLite
+
+Control total sobre LiveArea.  
+Requiere cuidado y backups.
+
+### Extraer `app.db`
+
+ur0:/shell/db/app.db → PC
+
+markdown
+Copiar código
+
+Abrir con:  
+**DB Browser for SQLite** / *SQLiteStudio* / equivalente.
+
+### Tablas relevantes:
+
+tbl_appinfo
+tbl_livearea
+
+sql
+Copiar código
+
+### Para ocultar una aplicación:
+
+```sql
+DELETE FROM tbl_livearea WHERE titleid = 'TITLEID_A_OCULTAR';
+DELETE FROM tbl_appinfo  WHERE titleid = 'TITLEID_A_OCULTAR';
+Guardar → devolver archivo modificado → Reiniciar Vita.
+
+Tu app ya no aparece en menú, pero sí existe en el sistema.
+
+5) 🔍 Cómo Obtener TitleIDs
+Desde VitaShell:
+bash
+Copiar código
+ux0:/app/
+ur0:/app/
+Abrir:
+
+bash
+Copiar código
+sce_sys/param.sfo
+En él aparece:
+
+makefile
+Copiar código
+TITLE: Nombre de la App
+TITLEID: Identificador único
+6) 🧪 Ejemplo — Ocultar Navegador (Browser)
+Sustituye NPXS10019 por tu TitleID real
+
+sql
+Copiar código
+SELECT * FROM tbl_livearea WHERE titleid='NPXS10019';
+SELECT * FROM tbl_appinfo  WHERE titleid='NPXS10019';
+
+DELETE FROM tbl_livearea WHERE titleid='NPXS10019';
+DELETE FROM tbl_appinfo  WHERE titleid='NPXS10019';
+Reinicia Vita → ya no aparece en el menú.
+
+7) Ocultar Apps Nativas (Browser/Mail/etc.)
+Identifica sus TitleIDs (Sección 5)
+
+Decide método:
+
+✔ Plugin → más seguro
+
+⚙ SQLite → control total
+
+Aplica instrucciones según el método
+
+8) 🔄 Restauración / Reversión
+Si usas plugin:
+css
+Copiar código
+• Quita TitleID del archivo
+• Reinicia
+Si modificaste app.db:
+sql
+Copiar código
+• Restaura la copia de seguridad
+• O re-inserta las filas SQL exportadas
+9) Recomendaciones Finales
+Haz siempre 2–3 copias de app.db
+
+Si dudas → usa plugin, no SQLite
+
+No renombres carpetas en ux0:/app/
+
+Documenta TitleIDs ocultados en un .txt propio
+
+Si todo falla → restaura app.db y reinicia
+
