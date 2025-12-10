@@ -733,3 +733,66 @@ Documenta TitleIDs ocultados en un .txt propio
 
 Si todo falla → restaura app.db y reinicia
 
+
+
+
+
+
+
+Pero el tutorial es correcto?
+ChatGPT Plus
+
+Sí, en líneas generales el tutorial es técnicamente correcto y funcionará si se siguen los pasos, pero con algunas precauciones importantes:
+
+✅ Lo que está bien
+
+Plugins (NoBubble / AppHide)
+
+Método seguro y reversible.
+
+No toca la base de datos directamente.
+
+Instrucciones de copia a ur0:/tai/ y edición del config.txt son correctas.
+
+SQLite + edición de app.db
+
+Usar DELETE FROM tbl_livearea y DELETE FROM tbl_appinfo efectivamente oculta la burbuja del menú.
+
+El tutorial menciona hacer backup, lo cual es crucial.
+
+Obtención de TitleIDs
+
+Buscar param.sfo dentro de ux0:/app/ o ur0:/app/ es correcto.
+
+Este paso es necesario tanto para plugins como para SQLite.
+
+Restauración / reversión
+
+Correcto: eliminar TitleID del plugin o restaurar app.db de backup devuelve las burbujas.
+
+⚠️ Precauciones
+
+Borrado en SQLite
+
+Borrar de tbl_appinfo puede causar problemas si otras apps dependen de esa info, especialmente apps nativas.
+
+Riesgo: si borras algo crítico por error, LiveArea puede fallar.
+
+Apps nativas
+
+No todas las apps nativas se pueden ocultar con plugins; algunas requieren acceso completo al sistema.
+
+Rutas de TitleID
+
+No siempre estarán en ambas rutas (ux0:/app/TITLEID/ y ur0:/app/TITLEID/); depende de si la app está en la tarjeta o en la memoria interna.
+
+Formato de tutorial
+
+Aunque el contenido es correcto, los bloques de código mal marcados podrían confundir a quien siga los pasos literal.
+
+💡 Resumen:
+El tutorial es funcional y correcto, especialmente el método con plugin (más seguro). El método SQLite funciona pero requiere extremo cuidado y backups. El principal “error” no es técnico, sino más bien de formato y claridad.
+
+Si quieres, puedo reescribir tu tutorial en Markdown limpio y seguro, corrigiendo los bloques de código y destacando claramente riesgos y pasos críticos para que sea listo para un README.md. Esto reduciría muchísimo el riesgo de errores al seguirlo.
+
+¿Quieres que haga eso?
