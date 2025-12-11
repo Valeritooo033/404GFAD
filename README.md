@@ -796,3 +796,80 @@ El tutorial es funcional y correcto, especialmente el método con plugin (más s
 Si quieres, puedo reescribir tu tutorial en Markdown limpio y seguro, corrigiendo los bloques de código y destacando claramente riesgos y pasos críticos para que sea listo para un README.md. Esto reduciría muchísimo el riesgo de errores al seguirlo.
 
 ¿Quieres que haga eso?
+
+
+
+Cuantos fps sube el assasins creed 3 con el overclock?
+ChatGPT Plus
+
+La mejora de frames por segundo (FPS) en Assassin’s Creed III: Liberation en PS Vita al usar overclock no está bien documentada con números oficiales, pero con base en pruebas comunitarias y experiencias de usuarios modders se puede resumir así:
+
+🎮 FPS base (sin overclock):
+
+El juego corre típicamente por debajo de 30 FPS en muchas escenas intensas, incluso puede bajar a ~20 FPS dependiendo de la carga gráfica. 
+ElOtroLado.net
+
+⚡ Con overclock (por ejemplo a 444 – 500 MHz):
+
+La mayoría de reportes de overclock en Vita indican que en general los juegos pueden ganar entre 3 – 10 FPS más en promedio cuando se aumenta la frecuencia de CPU/GPU. 
+RetroGameTalk
+
+No hay datos específicos para Assassin’s Creed III Liberation con valores exactos en FPS tras overclock, pero usuarios comentan que al subir clocks el frame rate se vuelve más estable y tiende a acercarse más a los 30 FPS en escenas donde antes bajaba mucho. 
+Reddit
+
+📌 Importante sobre cómo funciona el overclock en Vita:
+
+El overclock no siempre duplica o triplica FPS como en otros sistemas. En la Vita la mejora suele ser incremental porque muchos juegos están limitados por CPU, GPU y por cómo fueron programados. 
+Vita Game Performance
+
+Algunos títulos pueden tener mejor estabilidad de FPS, pero seguirán sin llegar a 60 FPS si el motor del juego no lo soporta.
+
+Para juegos que están bloqueados a 30 FPS (o peor), el overclock puede ayudar a mantener 30 FPS más consistentemente, pero no siempre llega ampliamente encima de ese tope.
+
+📍 Resumen típico esperado para AC3 Liberation con overclock:
+
+Sin overclock: ~20–30 FPS dependiendo de la escena.
+
+Con overclock: Mejora observada de ~3–10 FPS o mayor estabilidad (→ más cerca o más constante de ~30 FPS).
+
+No suele llegar a 60 FPS ni duplicar el rendimiento.
+
+Si quieres, puedo darte cómo configurar el overclock para este juego específicamente y qué plugins son los más usados (como PSVshellPlus o VitaGrafix), ¿quieres esa guía?
+
+Tú dijiste:
+Entonces se puede activar y desactivar desde la propia consola? 
+ChatGPT Plus
+
+Sí, se puede activar y desactivar el overclock desde la propia PS Vita, pero con matices:
+
+1️⃣ Forma más común (con plugins en HENkaku / taiHEN)
+
+Plugins como VitaGrafix o OverclockPlugin permiten ajustar la frecuencia de CPU/GPU.
+
+Dependiendo del plugin:
+
+Algunos permiten toggle directo desde la consola, usando una combinación de botones o un menú dentro del plugin.
+
+Otros requieren editar un archivo de configuración (.txt o .ini) y luego reiniciar VitaShell o reiniciar la consola para que se aplique el cambio.
+
+2️⃣ Por juego o global
+
+Puedes definir perfiles por juego, de modo que solo se active el overclock en títulos específicos como Assassin’s Creed 3 Liberation.
+
+También puedes tener un perfil global, activándolo/desactivándolo para todo el sistema.
+
+3️⃣ Precauciones
+
+Activar/desactivar en caliente puede causar cuelgues si el juego es muy exigente.
+
+Siempre conviene probar incrementos pequeños primero y no subir demasiado la frecuencia.
+
+✅ Resumen:
+
+Sí, se puede activar/desactivar desde la consola si tu plugin lo soporta.
+
+La forma exacta depende del plugin que uses: algunos permiten toggle en caliente, otros requieren reinicio.
+
+Se puede hacer globalmente o por juego.
+
+Si quieres, puedo decirte el plugin más usado actualmente y cómo configurar el overclock para activarlo/desactivarlo desde la Vita.
