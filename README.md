@@ -4,7 +4,7 @@ Traeme el pendrive mas grande que tengas en el formato que lee la tele con lo qu
 - Todas las de Tarantino menos "Los odiosos 8" y "Pulp Fiction", todas en inglés con subtítulos, si el audio está en los dos idiomas, mejor.
 - Todas las de Studio Ghibli en español.
 - Traeme Rick and Morty completa en español e inglés con subtítulos en ambos, de la temporada 1 a la 8. Revisa que el episodio 5 de la 5ta temporada estaba en búlgaro o polaco, no sé, aun no los diferencio.
-- Las series de animes que ya tengas, KAKEGURUI, y las películas: Taxi Driver, American Psycho, películas de ese estilo.
+- Las series de animes que ya tengas, KAKEGURUI, y las películas: Taxi Driver, American Psycho, Fight club, Joker, The Machinist películas de ese estilo.
 
 Eso era más importante; luego, lo que tengas:
 - Videos de BaityBait, me gustan muchísimo, algunos de EurogamerSpain de Borja y bueno, lo que te pusiera como más importante.
