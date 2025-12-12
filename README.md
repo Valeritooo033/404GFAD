@@ -1,4 +1,4 @@
-<!--
+
 Traeme el pendrive mas grande que tengas en el formato que lee la tele con lo que ya tengas descargado que me aburro:
 
 - Todas las de Tarantino menos "Los odiosos 8" y "Pulp Fiction", todas en inglés con subtítulos, si el audio está en los dos idiomas, mejor.
