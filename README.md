@@ -19,7 +19,7 @@ Pídeme cita en el peluquero aquel Blesson Congresos si puedes:
 - Si os viene bien, el viernes por la tarde también está bonito. Vamos a ver las luces y eso.
 - Mira a ver cuándo tiene hueco el peluquero. Si fuera por la tarde el viernes, pues lo pedimos en las últimas horas posibles, creo que de 4 de la tarde a 9 de la noche, pero así comeríamos tarde y cenamos pronto, yo qué sé.
 - Lo que veáis.  
-- Mira a ver si hay algún chino así goloso en Granada y si tienen para pedir cita; si no, pues a un Burger igual, como el Enjoy It o alguna por el centro. De chinos solo sé de uno que dicen que es bueno que se llama Burger Oriental.
+- Mira a ver si hay algún chino así goloso en Granada y si tienen para pedir cita; si no, pues a un Burger igual, como el Enjoy It, La buena muerte, el Ni Mihita o alguna de ese estilo por el centro. De chinos solo sé de uno que dicen que es bueno que se llama Burger Oriental.
 - Falta todavia una semana pero claro, tengo unas ganas de pelarme que no veas y este tio siempre esta lleno
 
 Muchas gracias por todo papá 💖🥰
