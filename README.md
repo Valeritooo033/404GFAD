@@ -13,7 +13,7 @@ Eso era más importante; luego, lo que tengas:
 - Los videos del Lethal Crisis que me pusiste ya los he visto; si hay otros más recientes de los últimos 5 meses, mételos.
 
 Putada lo de la PS Vita porque era lo que más ilusión me hacía, pero bueno, no podemos meterla y sacarla; como entre, debe quedarse aquí.  
-Revisa lo del overclock, si se puede activar y quitar desde la propia consola, los temas y eso. Imagino que lo habras hecho pero si lleva mucho sin conectarse a internet puede que tenga alguna actualizacion pendiente. Por cierto de spidermans de la vita metele el 2. (:
+Revisa lo del overclock, si se puede activar y quitar desde la propia consola, los temas y eso. Imagino que lo habras hecho pero si lleva mucho sin conectarse a internet puede que tenga alguna actualizacion pendiente. Por cierto de spidermans de la vita metele el 2. Y el Hatsune Miku: Project DIVA f (:
 
 Pídeme cita en el peluquero aquel Blesson Congresos si puedes:
 - Mira a ver cuándo tiene hora, no sé cuándo podéis vosotros. Yo la familiar la pediría el sábado por la mañana a las 11:30 hasta 5 horas después, pero claro, no sé.
