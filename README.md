@@ -1,6 +1,9 @@
 AÑADE TAMBIEN ESTE JUEGO A LA VITA QUE ME ENCANTA Y NO SABIA QUE EXISTIA PARA LA VITA PORQUE ES DE PC: Stardew Valley
 MIRA A VER SI ESTA EN ESPAÑOL PARA LA VITA, NO LO SE
 
+Y TAMBIEN ESTE PORFA QUE ES EL MEJOR DE SONIC:     Sonic & All-Stars Racing Transformed
+
+
 ECHALE UN VISTAZO QUE TE HE AÑADIDO UN PAR DE COSAS MAS 
 
 Traeme el pendrive mas grande que tengas en el formato que lee la tele con lo que ya tengas descargado que me aburro:
