@@ -38,6 +38,25 @@ OLLI OLLI 2: Welcome to OLLIwood
 Sinopsis: Skateboarding en 2D con controles precisos, trucos y combos que requieren reflejos y timing. Niveles creativos y desafiantes con estética estilo cartoon y banda sonora energética.
 Juego moderno similar: Tony Hawk’s Pro Skater 1+2           
 
+       
+Hatsune Miku: Project DIVA F / F 2nd
+
+⭐⭐⭐⭐⭐
+Sinopsis: Juego de ritmo musical con canciones de Hatsune Miku y otras Vocaloids. Pulsa los botones al ritmo de la música para conseguir puntuaciones altas. Incluye modo historia, personalización de módulos y desafíos de precisión.
+Juego moderno similar: Hatsune Miku: Project DIVA MegaMix / Cytus II
+
+
+Spider-Man (PS Vita)
+
+⭐⭐⭐⭐
+Sinopsis: Juego de acción en tercera persona basado en el universo de Spider-Man. Explora la ciudad, combate criminales, realiza misiones y desbloquea habilidades de trepa-muros y combate acrobático.
+Juego moderno similar: Marvel’s Spider-Man (PS4/PS5)
+
+Spider-Man 2 (PS Vita)
+
+⭐⭐⭐⭐
+Sinopsis: Continuación del juego anterior, con historia extendida y nuevas habilidades. Más enemigos, misiones secundarias y combate mejorado mientras recorres la ciudad como Spider-Man.
+Juego moderno similar: Spider-Man: Miles Morales
          
         
        
@@ -49,32 +68,6 @@ Juego moderno similar: Tony Hawk’s Pro Skater 1+2
                       
             
               
-    
-Traeme el pendrive mas grande que tengas en el formato que lee la tele con lo que ya tengas descargado que me aburro:
-
-- Todas las de Tarantino menos "Los odiosos 8" y "Pulp Fiction", todas en inglés con subtítulos, si el audio está en los dos idiomas, mejor.
-- Todas las de Studio Ghibli en español.
-- Traeme Rick and Morty completa en español e inglés con subtítulos en ambos, de la temporada 1 a la 8. Revisa que el episodio 5 de la 5ta temporada estaba en búlgaro o polaco, no sé, aun no los diferencio.
-- Las series de animes que ya tengas, KAKEGURUI, y las películas: Taxi Driver, American Psycho, Fight club, Joker, The Machinist películas de ese estilo.
-
-Eso era más importante; luego, lo que tengas:
-- Videos de BaityBait, me gustan muchísimo, algunos de EurogamerSpain de Borja y bueno, lo que te pusiera como más importante.
-- También algún video de Eurogamer sobre la PS Vita o algún otro canal enrollado que ahora no recuerdo.
-- Los videos del Lethal Crisis que me pusiste ya los he visto; si hay otros más recientes de los últimos 5 meses, mételos.
-
-Putada lo de la PS Vita porque era lo que más ilusión me hacía, pero bueno, no podemos meterla y sacarla; como entre, debe quedarse aquí.  
-Revisa lo del overclock, si se puede activar y quitar desde la propia consola, los temas y eso. Imagino que lo habras hecho pero si lleva mucho sin conectarse a internet puede que tenga alguna actualizacion pendiente. Por cierto de spidermans de la vita metele el 1 y el 2. Y el Hatsune Miku: Project DIVA f (:
-
-Pídeme cita en el peluquero aquel Blesson Congresos si puedes:
-- Mira a ver cuándo tiene hora, no sé cuándo podéis vosotros. Yo la familiar la pediría el sábado por la mañana a las 11:30 hasta 5 horas después, pero claro, no sé.
-- Si os viene bien, el viernes por la tarde también está bonito. Vamos a ver las luces y eso.
-- Mira a ver cuándo tiene hueco el peluquero. Si fuera por la tarde el viernes, pues lo pedimos en las últimas horas posibles, creo que de 4 de la tarde a 9 de la noche, pero así comeríamos tarde y cenamos pronto, yo qué sé.
-- Lo que veáis.  
-- Mira a ver si hay algún chino así goloso en Granada y si tienen para pedir cita; si no, pues a un Burger igual, como el Enjoy It, La buena muerte, el Ni Mihita o alguna de ese estilo por el centro. De chinos solo sé de uno que dicen que es bueno que se llama Burger Oriental.
-- Falta todavia una semana pero claro, tengo unas ganas de pelarme que no veas y este tio siempre esta lleno
-
-Muchas gracias por todo papá 💖🥰
--->
 
 
 
