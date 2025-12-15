@@ -3,8 +3,15 @@ MIRA A VER SI ESTA EN ESPAÑOL PARA LA VITA, NO LO SE
 
 Y TAMBIEN ESTE PORFA QUE ES EL MEJOR DE SONIC:     Sonic & All-Stars Racing Transformed
 Y ESTE DE TWD: The Walking Dead Season 1
+Y ESTOS ULTIMOS: YA NO AÑADO MAS EN SERIO:                                          
 
-
+                             
+Dragon Quest Builders 
+Half Life (Este es un port de la comunidad y no se como de estable y jugable es, solo escuché que existe (Port del motor Xash3D))
+           
+         
+          
+            
 ECHALE UN VISTAZO QUE TE HE AÑADIDO UN PAR DE COSAS MAS 
 
 Traeme el pendrive mas grande que tengas en el formato que lee la tele con lo que ya tengas descargado que me aburro:
