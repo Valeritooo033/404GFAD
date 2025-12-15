@@ -1,15 +1,42 @@
 AÑADE TAMBIEN ESTE JUEGO A LA VITA QUE ME ENCANTA Y NO SABIA QUE EXISTIA PARA LA VITA PORQUE ES DE PC: Stardew Valley
-MIRA A VER SI ESTA EN ESPAÑOL PARA LA VITA, NO LO SE
 
-Y TAMBIEN ESTE PORFA QUE ES EL MEJOR DE SONIC:     Sonic & All-Stars Racing Transformed
-Y ESTE DE TWD: The Walking Dead Season 1
-Y ESTOS ULTIMOS: YA NO AÑADO MAS EN SERIO:                                          
 
-                             
-Dragon Quest Builders       
-        y          
-Half Life (Este es un port de la comunidad y no se como de estable y jugable es, solo escuché que existe (Port del motor Xash3D))
+Y ESTOS MAS QUE NO PUSE EN LA LISTA:
+   
+    
+   
+  
+Sonic & All-Stars Racing Transformed
+
+⭐⭐⭐⭐
+Sinopsis: Juego de carreras arcade con personajes de Sega. Vehículos que se transforman entre coches, barcos y aviones según el terreno. Pistas dinámicas, multijugador local y online, con power-ups y modos divertidos.
+Juego moderno similar: Mario Kart 8 Deluxe
+    
+The Walking Dead: Season 1
+
+⭐⭐⭐⭐⭐
+Sinopsis: Aventura narrativa episódica basada en la famosa serie de cómics. Toma decisiones difíciles que afectan la historia y el destino de los personajes. Gran tensión, emoción y desarrollo de relaciones humanas en un mundo apocalíptico.
+Juego moderno similar: The Walking Dead: The Final Season / Life is Strange
            
+🌀 SANDBOX / CONSTRUCCIÓN / RPG
+Dragon Quest Builders
+
+⭐⭐⭐⭐
+Sinopsis: RPG de construcción en un mundo de Dragon Quest. Combina exploración, recolección de recursos y crafting para reconstruir pueblos mientras combates enemigos y resuelves misiones. Estilo colorido y mecánicas accesibles.
+Juego moderno similar: Minecraft / Dragon Quest Builders 2
+
+Half-Life (Port Xash3D)
+
+⭐⭐⭐
+Sinopsis: Port no oficial del clásico shooter en primera persona usando el motor Xash3D. Permite jugar la historia de Gordon Freeman en PS Vita, aunque la estabilidad y compatibilidad pueden variar según la versión.
+Juego moderno similar: Half-Life: Alyx (VR/PC)
+    
+    
+OLLI OLLI 2: Welcome to OLLIwood
+
+⭐⭐⭐⭐
+Sinopsis: Skateboarding en 2D con controles precisos, trucos y combos que requieren reflejos y timing. Niveles creativos y desafiantes con estética estilo cartoon y banda sonora energética.
+Juego moderno similar: Tony Hawk’s Pro Skater 1+2           
          
           
             
@@ -355,7 +382,7 @@ Esta es la **colección definitiva de juegos de PS Vita**, organizada por géner
 
 ## 🎭 VISUAL NOVELS
 
-### Danganronpa 1 & 2  
+### Danganronpa 1 & 2 & 3
 ⭐⭐⭐⭐⭐❤  
 **Sinopsis:** Asesinatos misteriosos, juicios tensos y traiciones. Historia absorbente y giros impactantes.  
 **Juego moderno similar:** AI: The Somnium Files  
