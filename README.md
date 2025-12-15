@@ -57,6 +57,13 @@ Spider-Man 2 (PS Vita)
 ⭐⭐⭐⭐
 Sinopsis: Continuación del juego anterior, con historia extendida y nuevas habilidades. Más enemigos, misiones secundarias y combate mejorado mientras recorres la ciudad como Spider-Man.
 Juego moderno similar: Spider-Man: Miles Morales
+
+
+Stardew Valley
+
+⭐⭐⭐⭐⭐❤
+Sinopsis: Gestiona y desarrolla tu propia granja mientras interactúas con los habitantes del pueblo, cultivas, crías animales, pescas, minas y exploras cuevas llenas de secretos. El juego combina relajación con objetivos estratégicos y narrativa ligera pero encantadora.
+Juego moderno similar: Animal Crossing: New Horizons / Harvest Moon: One World
          
         
        
