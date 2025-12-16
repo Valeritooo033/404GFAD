@@ -1,0 +1,56 @@
+1️⃣ Requisitos
+
+Una PS Vita con firmware hackeado (HENkaku o similar).
+
+VitaShell instalado en tu consola.
+
+Temas en formato .vpk o archivos de tema (ux0:/tai o ux0:/theme).
+
+Tarjeta de memoria suficiente.
+
+⚠️ Nota: Los temas oficiales solo se instalan desde la PS Store, estos métodos son para temas personalizados y requieren Homebrew.
+
+2️⃣ Preparar la tarjeta de memoria
+
+Conecta la PS Vita a tu PC vía USB o usa VitaShell FTP.
+
+Copia los archivos del tema a tu PS Vita, normalmente a:
+
+ux0:/tai/ (para parches y temas)
+
+ux0:/theme/ o ux0:/theme/Custom (para temas .vpk que se instalan directamente)
+
+3️⃣ Instalar el tema
+Opción 1: Tema .vpk
+
+Abre VitaShell.
+
+Navega al archivo .vpk del tema.
+
+Presiona X → Instalar.
+
+Una vez instalado, reinicia la consola si es necesario.
+
+Opción 2: Archivos de tema manual
+
+Copia las carpetas del tema a ux0:/theme/.
+
+Asegúrate de que el archivo config.txt (si viene) esté correcto.
+
+Reinicia la PS Vita.
+
+4️⃣ Activar el tema
+
+Ve a Ajustes → Temas → Seleccionar tema.
+
+Deberías ver el tema que instalaste.
+
+Actívalo y disfruta.
+
+Consejos
+
+Siempre haz backup de tu tema original (ux0:/theme/) antes de reemplazarlo.
+
+Algunos temas requieren plugins adicionales como Enso o MMSV para funcionar.
+
+Evita temas de fuentes dudosas para no dañar la consola.
