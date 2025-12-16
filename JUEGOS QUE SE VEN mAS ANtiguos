@@ -9,15 +9,18 @@
 
 - Axiom Verge  
 - A-Train Express  
+- Banner Saga  
 - Civilization Revolution 2+  
 - Corpse Party: Blood Drive  
 - Danganronpa 1 & 2 & 3  
+- Demon Gaze  
 - Don’t Starve  
 - Dragon’s Crown  
 - Guacamelee!  
 - Hatsune Miku: Project DIVA F / F 2nd  
 - Hotline Miami 1 & 2  
 - Muramasa Rebirth  
+- Odin Sphere: Leifthrasir  
 - OLLI OLLI 2: Welcome to OLLIwood  
 - Patapon 2 / 3  
 - Prison Architect  
@@ -27,21 +30,21 @@
 - Shovel Knight: Treasure Trove  
 - Spelunky  
 - Super Meat Boy  
+- Stardew Valley  
 - Steins;Gate  
 - Tearaway  
 - Terraria
+- Tokyo Xanadu  
 
 ---
 
 ## ❌ Juegos que no pasan el filtro (3D / modernos / AAA)
 
 - Akiba’s Trip: Undead & Undressed  
-- Banner Saga  
 - Borderlands 2  
 - Call of Duty: Black Ops Declassified  
 - Crisis Core: Final Fantasy VII  
 - Dragon Quest Builders  
-- Demon Gaze  
 - Freedom Wars + Extended  
 - God of War: Chains of Olympus / Ghost of Sparta  
 - Half-Life (Port Xash3D)  
@@ -49,7 +52,6 @@
 - Liberty City Stories  
 - Minecraft: PS Vita Edition  
 - Need for Speed: Most Wanted (Vita)  
-- Odin Sphere: Leifthrasir  
 - Persona 4 Golden  
 - Pro Evolution Soccer 2014  
 - Resident Evil Revelations 2  
@@ -59,9 +61,48 @@
 - Spider-Man (PS Vita)  
 - Spider-Man 2 (PS Vita)  
 - Soul Sacrifice + Delta  
-- Stardew Valley  
 - The Walking Dead: Season 1  
-- Tokyo Xanadu  
 - Toukiden Kiwami  
 - WipEout 2048  
 - Ys: Memories of Celceta
+
+
+
+
+
+
+
+
+# Estrategia de instalación posterior en PS Vita
+
+Con esta estrategia, la mayoría de los juegos **no debería dar problemas**, siempre que tengas en cuenta algunos puntos:
+
+---
+
+## 🔹 Consideraciones para instalar después desde la Vita
+
+### Espacio suficiente
+- Juegos como **Persona 4 Golden, Borderlands 2, Dragon Quest Builders, Resident Evil Revelations 2** y **Minecraft** ocupan mucho espacio.  
+- Asegúrate de tener suficiente almacenamiento libre en **uma0/SD2Vita** antes de iniciar la instalación.
+
+### Instalación uno por uno
+- Evita instalar varios juegos pesados simultáneamente.  
+- La Vita puede “atascarse” o colgarse si intenta procesar muchos VPK grandes a la vez.
+
+### Plugins / hacks / SD2Vita
+- Si tu Vita está hackeada, algunos juegos pueden **chocar con plugins de almacenamiento o compatibilidad de saves**.  
+- Por ejemplo, **Half-Life (Port Xash3D)** o **Freedom Wars Extended** necesitan configuración específica o archivos adicionales.
+
+### Episódicos / DLCs
+- Juegos como **Resident Evil Revelations 2** y **The Walking Dead: Season 1** tienen capítulos; instalar todo de golpe puede generar errores si alguna parte falta o no está correctamente organizada.
+
+### Tiempo de instalación
+- Juegos grandes pueden tardar **10–30 minutos cada uno**, dependiendo del tamaño y del tipo de almacenamiento (cartucho, SD2Vita o memoria interna).
+
+---
+
+## 🔹 Conclusión
+- Dejar los juegos modernos/3D para instalar después es totalmente viable.  
+- Solo asegúrate de **espacio suficiente, instalar uno por uno y verificar compatibilidad de plugins**.  
+- Los únicos que podrían dar problemas reales son los **ports no oficiales** (Half-Life Xash3D, GTA, etc.)
+
