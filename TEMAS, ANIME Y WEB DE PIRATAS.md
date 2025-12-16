@@ -1,17 +1,12 @@
-
-
 https://psvt.ovh/theme.php?id=1610564690
-
 
 https://psvt.ovh/theme.php?id=1750179013
 
-
 https://psvt.ovh/theme.php?id=1535194735
 
+**ANIME:** Kakegurui
 
-ANIME:  Kakegurui
-
-
-SITIO BUENO PARA JUEGOS PIRATAS https://nopaystation.com/search?query=&platform=psv&region=eu&limit=10&orderBy=completionDate&sort=DESC&missing=Show
-
+**SITIO BUENO PARA JUEGOS PIRATAS:** [NopayStation](https://nopaystation.com/search?query=&platform=psv&region=eu&limit=10&orderBy=completionDate&sort=DESC&missing=Show)  
+(PREGÚNTALE A CHATGPT CÓMO ORIENTARTE EN LA PÁGINA, ALGUNAS VECES VERÁS VARIAS VERSIONES, QUE LOS JUEGOS SEAN EN VERSIÓN EUROPA, 
+SI NO ESTÁN EN ESP QUE SEAN EN INGLÉS, AUNQUE MUCHOS DE ELLOS DEJARÁN ELEGIR ENTRE VARIOS IDIOMAS DE EUROPA, OTROS SOLO ESTARÁN EN JAPONÉS O INGLÉS)
 
