@@ -3,8 +3,14 @@ AÑADE TAMBIEN ESTE JUEGO A LA VITA QUE ME ENCANTA Y NO SABIA QUE EXISTIA PARA L
 
 Y ESTOS MAS QUE NO PUSE EN LA LISTA:
    
-    
+Resident Evil Revelations 2
    
+⭐⭐⭐⭐⭐
+Sinopsis: Survival horror con una historia episódica que sigue a Claire Redfield y Barry Burton mientras investigan una isla infestada de criaturas mutantes y conspiraciones peligrosas. Combina exploración, resolución de puzzles, gestión de recursos y acción intensa. Incluye modo cooperativo local y online para jugar con otro jugador. Rendimiento aceptable en PS Vita aunque limitado por hardware.
+Juego moderno similar: Resident Evil Village / Resident Evil 2 Remake
+      
+      
+      
   
 Sonic & All-Stars Racing Transformed
 
