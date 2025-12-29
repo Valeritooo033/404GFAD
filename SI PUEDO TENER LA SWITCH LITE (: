@@ -1,23 +1,27 @@
-            new Game("Xenoblade 3", "12"),
-            new Game("Zelda: TOTK", "12"),
-            new Game("Dark Souls Remastered", "16"),
-            new Game("Stardew Valley", "7"),
-            new Game("High On Life", "18"),
-            new Game("Red Faction Guerrilla: Re-Mars-tered Edition", "16"),
-            new Game("Tropico 6", "12"),
-            new Game("Bayonetta 3", "18"),
-            new Game("Wolfenstein: New Colossus", "18"),
-            new Game("Shippuden Ultimate Ninja Storm 4", "12"),
-            new Game("Final Fantasy VII Remake", "12"),
-            new Game("Metroid Prime Remastered", "12")
-            new Game("POKEMON LEGENDS ARCEUS", "7"),
-            new Game("Call of Juarez", "18"),
-            new Game("THE WITCHER 3", "18"),
-            new Game("BioShock Collection", "18"),
-            new Game("Doom Eternal", "18"),
-            new Game("Minecraft", "7"),
-            new Game("SUPER MARIO ODYSSEY", "3"),
-            new Game("Zelda: BOTW", "12"),
-            new Game("Borderlands 3", "18")
-            new Game("Animal Crossing: New Horizons", "3"),
-            new Game("Burnout Paradise Remastered", "12),
+# Switch Games: PEGI, Tiempo y Tamaño
+
+| Juego | PEGI | Tiempo aproximado (main) | Tamaño en GB (aprox.) |
+|------|------:|:-------------------------:|:----------------------:|
+| Xenoblade 3 | 12 | ~60–65h | ~14.4 GB|
+| Zelda: TOTK | 12 | ~45–95h (main story) | ~14–? GB* |
+| Dark Souls Remastered | 16 | ~30–70h | ~10–15 GB* |
+| Stardew Valley | 7 | abierto (sandbox) | ~1–1.5 GB* |
+| High On Life | 18 | ~15–25h | ~8–12 GB* |
+| Red Faction Guerrilla: Re‑Mars‑tered Edition | 16 | ~12–20h | ~8–10 GB* |
+| Tropico 6 | 12 | ~20–40h | ~6–8 GB* |
+| Bayonetta 3 | 18 | ~8–12h | ~10–12 GB* |
+| Wolfenstein: New Colossus | 18 | ~10–15h | ~12–15 GB* |
+| Shippuden Ultimate Ninja Storm 4 | 12 | ~15–20h | ~6–8 GB* |
+| Final Fantasy VII Remake | 12 | ~30–40h | ~12–14 GB* |
+| Metroid Prime Remastered | 12 | ~13–18h | ~5–7 GB* |
+| Pokémon Legends Arceus | 7 | ~20–30h | ~10–12 GB* |
+| Call of Juarez | 18 | ~8–12h | ~5–6 GB* |
+| The Witcher 3 | 18 | ~100–150h (main + extras)| ~24.3–39.1 GB |
+| BioShock Collection | 18 | ~30–40h | ~8–12 GB* |
+| Doom Eternal | 18 | ~12–20h | ~15–20 GB* |
+| Minecraft | 7 | abierto | ~1–2 GB* |
+| Super Mario Odyssey | 3 | ~12–15h | ~5–6 GB* |
+| Zelda: BOTW | 12 | ~45–55h | ~14 GB* |
+| Borderlands 3 | 18 | ~20–35h | ~8–23.5 GB |
+| Animal Crossing: New Horizons | 3 | abierto | ~5–7 GB* |
+| Burnout Paradise Remastered | 12 | ~15–25h | ~10–12 GB* |
