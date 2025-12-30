@@ -1,42 +1,45 @@
+    String[] LOS SI O SI DEBES JUGAR  = {
+        "Xenoblade 3",
+        "Zelda: TOTK",
+        "Bayonetta 3",
+        "The Witcher 3",
+        "Metroid Prime Remastered",
+        "Doom Eternal",
+        "Resident Evil 4 Remastered",
+        "Pokemon Legends: Arceus"
+    };
 
-            new ("Xenoblade 3", "12"),
-            new ("Zelda: TOTK", "12"),
-            new ("Dark Souls Remastered", "16"),
-            new ("Stardew Valley", "7"),
-            new ("Assasins Creed RebelCollection", "18"),
-            new ("Red Faction Guerrilla: Re-Mars-tered Edition", "16"),
-            new ("Tropico 6", "12"),
-            new ("Bayonetta 3", "18"),
-            new Game("Wolfenstein: New Colossus", "18"),
-            new Game("Shippuden Ultimate Ninja Storm 4", "12"),
-            new Game("Final Fantasy VII Remake", "12"),
-            new Game("Metroid Prime Remastered", "12")
-            "Grand Theft Auto: The Trilogy – The Definitive Edition
-            Hyrule Warriors: Age of Calamity
-            new Game("Call of Juarez", "18"),
-            new Game("THE WITCHER 3", "18"),
-            Wipeout Omega Collection
-            new Game("Need for Speed: Hot Pursuit Remastered", "12"),
-            new Game("BioShock Collection", "18"),
-            Pokemon Scarlet/Violet
-            new Game("POKEMON LEGENDS ARCEUS", "7"),
-            new Game("Burnout Paradise Remastered", "12),
-            new Game("Doom Eternal", "18"),
-            Resident Evil 4 Remastered
-            new Game("Minecraft", "7"),
-            new Game("SUPER MARIO ODYSSEY", "3"),
-            new Game("Zelda: BOTW", "12"),
-            new Game("Borderlands 3", "18")
-            Civilization VI
-            Signalis
-            new ("High On Life", "18"),
-            new Game("Undertale", "12"),
-            FC 26
-            INSIDE
-            new Game("Animal Crossing: New Horizons", "3"),
+    String[] Altamente recomendados r = {
+        "Final Fantasy VII Remake",
+        "Dark Souls Remastered",
+        "Wolfenstein: New Colossus",
+        "Assassins Creed Rebel Collection",
+        "BioShock Collection",
+        "Hyrule Warriors: Age of Calamity",
+        "Grand Theft Auto Trilogy",
+        "Call of Juarez",
+        "Borderlands 3",
+        "Shippuden Ultimate Ninja Storm 4",
+        "Need for Speed: Hot Pursuit Remastered",
+        "Burnout Paradise Remastered",
+        "Wipeout Omega Collection",
+        "Pokemon Scarlet/Violet",
+        "Civilization VI",
+        "High On Life",
+        "Signalis",
+        "Undertale"
+    };
 
-
-
+    String[] para Pasar el rato y relajarse = {
+        "Stardew Valley",
+        "Tropico 6",
+        "Minecraft",
+        "Super Mario Odyssey",
+        "Zelda: BOTW",
+        "FC 26",
+        "INSIDE",
+        "Animal Crossing: New Horizons"
+    };
 
 
 
