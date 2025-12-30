@@ -4,33 +4,39 @@
         "Bayonetta 3",
         "The Witcher 3",
         "Metroid Prime Remastered",
-        "Doom Eternal",
+        "Assassins Creed Rebel Collection",
         "Resident Evil 4 Remastered",
-        "Pokemon Legends: Arceus"
-    };
+            };
+
 
     String[] Altamente recomendados r = {
         "Final Fantasy VII Remake",
         "Dark Souls Remastered",
-        "Wolfenstein: New Colossus",
-        "Assassins Creed Rebel Collection",
-        "BioShock Collection",
         "Hyrule Warriors: Age of Calamity",
-        "Grand Theft Auto Trilogy",
+        "Doom Eternal",
+        "Need for Speed: Hot Pursuit Remastered",
+        "Wolfenstein: New Colossus",
+        "BioShock Collection",
         "Call of Juarez",
         "Borderlands 3",
         "Shippuden Ultimate Ninja Storm 4",
-        "Need for Speed: Hot Pursuit Remastered",
-        "Burnout Paradise Remastered",
         "Wipeout Omega Collection",
         "Pokemon Scarlet/Violet",
+
+    };
+
+
+  String[] Recomendados = {
         "Civilization VI",
+        "Pokemon Legends: Arceus"
+        "Grand Theft Auto Trilogy",
         "High On Life",
         "Signalis",
         "Undertale"
-    };
+        "Burnout Paradise Remastered",
 
-    String[] para Pasar el rato y relajarse = {
+
+    String[] para Pasar el rato y relajarse tambien si o si los primeros 3 mínimo = {
         "Stardew Valley",
         "Tropico 6",
         "Minecraft",
@@ -39,9 +45,9 @@
         "FC 26",
         "INSIDE",
         "Animal Crossing: New Horizons"
-    };
+    }*/
 
 
 
 
-
+esto es pa acordarme yo: maariasancho
