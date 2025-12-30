@@ -1,4 +1,21 @@
-            new ("Xenoblade 3", "12"),
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+new ("Xenoblade 3", "12"),
             new ("Zelda: TOTK", "12"),
             new ("Dark Souls Remastered", "16"),
             new ("Stardew Valley", "7"),
@@ -26,6 +43,7 @@
             new Game("SUPER MARIO ODYSSEY", "3"),
             new Game("Zelda: BOTW", "12"),
             new Game("Borderlands 3", "18")
+            Civilization VI
             Signalis
             new ("High On Life", "18"),
             new Game("Undertale", "12"),
