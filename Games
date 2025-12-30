@@ -17,6 +17,7 @@
             Wipeout Omega Collection
             new Game("Need for Speed: Hot Pursuit Remastered", "12"),
             new Game("BioShock Collection", "18"),
+            Pokemon Scarlet/Violet
             new Game("POKEMON LEGENDS ARCEUS", "7"),
             new Game("Burnout Paradise Remastered", "12),
             new Game("Doom Eternal", "18"),
@@ -25,7 +26,9 @@
             new Game("SUPER MARIO ODYSSEY", "3"),
             new Game("Zelda: BOTW", "12"),
             new Game("Borderlands 3", "18")
+            Signalis
             new ("High On Life", "18"),
             new Game("Undertale", "12"),
+            FC 26
+            INSIDE
             new Game("Animal Crossing: New Horizons", "3"),
-                        FC 26
