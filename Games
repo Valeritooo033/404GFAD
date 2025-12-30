@@ -50,3 +50,22 @@ new ("Xenoblade 3", "12"),
             FC 26
             INSIDE
             new Game("Animal Crossing: New Horizons", "3"),
+
+
+
+
+
+
+
+
+
+
+ String current = "Tropico 6";
+    String alternative1 = "Factorio | logistics and factory simulation, solo-friendly, offline";
+    String alternative2 = "Banished | medieval town management, survival-focused, compact scale";
+    String alternative3 = "Surviving Mars | sci-fi colony builder, offline solo, tech trees";
+    String alternative4 = "Two Point Campus | light management, creative building, offline solo-friendly";
+
+    String reasoning = 
+        "These provide distinct flavors: industrial, historical, sci-fi, and creative/modern management experiences";
+
