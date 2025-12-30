@@ -1,6 +1,9 @@
+package Enunciados_De_Ejercicios;
 
+public class Classe{
+    /*
 
-String[] LOS SI O SI DEBES JUGAR  = {
+    String[] LOS SI O SI DEBES JUGAR  = {
         "Xenoblade 3",
         "Zelda: TOTK",
         "Bayonetta 3",
@@ -15,7 +18,7 @@ String[] LOS SI O SI DEBES JUGAR  = {
         "Final Fantasy VII Remake",
         "Dark Souls Remastered",
         "Hyrule Warriors: Age of Calamity",
-        "Doom Eternal",
+        "Doom Eternal", SI PUEDE SER CON TODOS LOS DLCS, MEJOR, LO PONDRIA PRIMERO PERO YA LO JUGUE, LOS DLCS NO LOS JUGUE
         "Need for Speed: Hot Pursuit Remastered",
         "Wolfenstein: New Colossus",
         "BioShock Collection",
@@ -48,6 +51,9 @@ String[] LOS SI O SI DEBES JUGAR  = {
         "INSIDE",
         "Animal Crossing: New Horizons"
     }*/
+
+}
+
 
 
 
