@@ -17,6 +17,7 @@ public class Classe{
     String[] Altamente recomendados r = {
         "Final Fantasy VII Remake",
         "Dark Souls Remastered",
+        "Red Faction Guerrilla: Re-Mars-tered Edition";"
         "Hyrule Warriors: Age of Calamity",
         "Doom Eternal", SI PUEDE SER CON TODOS LOS DLCS, MEJOR, LO PONDRIA PRIMERO PERO YA LO JUGUE, LOS DLCS NO LOS JUGUE
         "Need for Speed: Hot Pursuit Remastered",
@@ -46,13 +47,14 @@ public class Classe{
         "Tropico 6",
         "Minecraft",
         "Super Mario Odyssey",
-        "Zelda: BOTW", LO TENGO EN FÍSICO
+        "Zelda: BOTW",
         "FC 26",
         "INSIDE",
         "Animal Crossing: New Horizons"
     }*/
 
 }
+
 
 
 
